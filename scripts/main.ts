@@ -2,21 +2,25 @@ import dotenv from 'dotenv'
 import { initializeBot, checkAndSendNews } from './telegramBot'
 import { logger } from './logger'
 import path from 'path'
+import { cleanupOldFiles } from './storage'
 
 dotenv.config({ path: path.resolve(__dirname, '.env') })
 
 async function main() {
-  initializeBot()
+  try {
+    logger.info('Starting news check')
 
-  // Run the news check
-  await checkAndSendNews()
+    initializeBot()
 
-  process.on('SIGINT', () => {
-    logger.info('Bot is shutting down')
+    await checkAndSendNews()
+    await cleanupOldFiles()
+
+    logger.info('News check completed')
+  } catch (error) {
+    logger.error('Error in main:', error)
+  } finally {
     process.exit(0)
-  })
+  }
 }
 
-main().catch((error) => {
-  logger.error('Error in main:', error)
-})
+main()
