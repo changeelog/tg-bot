@@ -2,16 +2,14 @@ import fs from 'fs'
 import { NewsItem } from './newsFeedFetcher'
 import { STORAGE_FILE } from './config'
 
-export function loadStoredNews(): Set<string> {
+export function loadStoredNews(): NewsItem[] {
   if (fs.existsSync(STORAGE_FILE)) {
     const data = fs.readFileSync(STORAGE_FILE, 'utf-8')
-    const newsArray: NewsItem[] = JSON.parse(data)
-    return new Set(newsArray.map((item) => item.link))
+    return JSON.parse(data)
   }
-  return new Set()
+  return []
 }
 
-export function saveStoredNews(news: Set<string>): void {
-  const newsArray = Array.from(news).map((link) => ({ link }))
-  fs.writeFileSync(STORAGE_FILE, JSON.stringify(newsArray, null, 2))
+export function saveStoredNews(news: NewsItem[]): void {
+  fs.writeFileSync(STORAGE_FILE, JSON.stringify(news, null, 2))
 }

@@ -8,14 +8,6 @@ export function removeOldNews(news: NewsItem[]): NewsItem[] {
   )
 }
 
-export function sortNewsByDate(news: NewsItem[]): NewsItem[] {
-  return news.sort(
-    (a, b) =>
-      new Date(`${b.date} ${b.time}`).getTime() -
-      new Date(`${a.date} ${a.time}`).getTime(),
-  )
-}
-
 export async function retryOperation<T>(
   operation: () => Promise<T>,
   maxRetries: number,
