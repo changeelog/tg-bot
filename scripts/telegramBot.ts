@@ -74,13 +74,3 @@ export async function checkAndSendNews() {
 
   logger.info('Finished news check')
 }
-
-export async function sendStatusUpdate() {
-  const message = 'Bot is functioning normally.'
-  try {
-    await bot.sendMessage(CHANNEL_ID, message)
-    logger.info('Sent status update')
-  } catch (error) {
-    logger.error(`Could not send status update: ${error.message}`)
-  }
-}
