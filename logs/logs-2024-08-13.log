@@ -1,0 +1,3491 @@
+2024-08-12T21:00:03.339Z info: Start parser
+2024-08-12T21:00:04.503Z info: Finish parser
+2024-08-12T21:01:02.805Z info: Start parser
+2024-08-12T21:01:03.878Z info: Finish parser
+2024-08-12T21:02:03.107Z info: Start parser
+2024-08-12T21:02:04.182Z info: Finish parser
+2024-08-12T21:03:02.627Z info: Start parser
+2024-08-12T21:03:03.657Z info: Finish parser
+2024-08-12T21:04:03.443Z info: Start parser
+2024-08-12T21:04:04.769Z info: Finish parser
+2024-08-12T21:05:02.844Z info: Start parser
+2024-08-12T21:05:04.251Z info: Finish parser
+2024-08-12T21:06:03.218Z info: Start parser
+2024-08-12T21:06:04.359Z info: Finish parser
+2024-08-12T21:07:02.599Z info: Start parser
+2024-08-12T21:07:03.672Z info: Finish parser
+2024-08-12T21:08:03.054Z info: Start parser
+2024-08-12T21:08:04.263Z info: Finish parser
+2024-08-12T21:09:02.539Z info: Start parser
+2024-08-12T21:09:03.925Z info: Finish parser
+2024-08-12T21:10:02.970Z info: Start parser
+2024-08-12T21:10:03.149Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T21:10:08.156Z error: try again after waiting
+2024-08-12T21:10:09.150Z info: Finish parser
+2024-08-12T21:11:02.429Z info: Start parser
+2024-08-12T21:11:03.531Z info: Finish parser
+2024-08-12T21:12:03.042Z info: Start parser
+2024-08-12T21:12:04.139Z info: Finish parser
+2024-08-12T21:13:02.641Z info: Start parser
+2024-08-12T21:13:03.934Z info: Finish parser
+2024-08-12T21:14:03.130Z info: Start parser
+2024-08-12T21:14:04.324Z info: Finish parser
+2024-08-12T21:15:03.545Z info: Start parser
+2024-08-12T21:15:04.836Z info: Finish parser
+2024-08-12T21:16:03.116Z info: Start parser
+2024-08-12T21:16:04.391Z info: Finish parser
+2024-08-12T21:17:02.556Z info: Start parser
+2024-08-12T21:17:03.695Z info: Finish parser
+2024-08-12T21:18:02.957Z info: Start parser
+2024-08-12T21:18:04.164Z info: Finish parser
+2024-08-12T21:19:02.401Z info: Start parser
+2024-08-12T21:19:03.437Z info: Finish parser
+2024-08-12T21:20:02.889Z info: Start parser
+2024-08-12T21:20:03.062Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T21:20:08.069Z error: try again after waiting
+2024-08-12T21:20:09.082Z info: Finish parser
+2024-08-12T21:21:02.359Z info: Start parser
+2024-08-12T21:21:02.533Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T21:21:07.540Z error: try again after waiting
+2024-08-12T21:21:08.663Z info: Finish parser
+2024-08-12T21:22:02.903Z info: Start parser
+2024-08-12T21:22:03.081Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T21:22:08.087Z error: try again after waiting
+2024-08-12T21:22:10.150Z info: Finish parser
+2024-08-12T21:23:02.437Z info: Start parser
+2024-08-12T21:23:03.765Z info: Finish parser
+2024-08-12T21:24:02.817Z info: Start parser
+2024-08-12T21:24:04.002Z info: Finish parser
+2024-08-12T21:25:03.187Z info: Start parser
+2024-08-12T21:25:04.363Z info: Finish parser
+2024-08-12T21:26:03.095Z info: Start parser
+2024-08-12T21:26:04.709Z info: Finish parser
+2024-08-12T21:27:02.461Z info: Start parser
+2024-08-12T21:27:03.868Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T21:27:08.875Z error: try again after waiting
+2024-08-12T21:27:10.216Z info: Finish parser
+2024-08-12T21:28:03.117Z info: Start parser
+2024-08-12T21:28:03.291Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T21:28:08.297Z error: try again after waiting
+2024-08-12T21:28:09.526Z info: Finish parser
+2024-08-12T21:29:02.748Z info: Start parser
+2024-08-12T21:29:02.931Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T21:29:07.937Z error: try again after waiting
+2024-08-12T21:29:08.994Z info: Finish parser
+2024-08-12T21:30:03.400Z info: Start parser
+2024-08-12T21:30:04.640Z info: Finish parser
+2024-08-12T21:31:02.779Z info: Start parser
+2024-08-12T21:31:04.672Z info: Finish parser
+2024-08-12T21:32:03.252Z info: Start parser
+2024-08-12T21:32:04.340Z info: Finish parser
+2024-08-12T21:33:02.619Z info: Start parser
+2024-08-12T21:33:02.790Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T21:33:07.797Z error: try again after waiting
+2024-08-12T21:33:08.800Z info: Finish parser
+2024-08-12T21:34:03.162Z info: Start parser
+2024-08-12T21:34:04.215Z info: Finish parser
+2024-08-12T21:35:02.587Z info: Start parser
+2024-08-12T21:35:03.702Z info: Finish parser
+2024-08-12T21:36:02.966Z info: Start parser
+2024-08-12T21:36:04.044Z info: Finish parser
+2024-08-12T21:37:02.880Z info: Start parser
+2024-08-12T21:37:04.466Z info: Finish parser
+2024-08-12T21:38:03.223Z info: Start parser
+2024-08-12T21:38:03.408Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T21:38:08.412Z error: try again after waiting
+2024-08-12T21:38:09.816Z info: Finish parser
+2024-08-12T21:39:02.665Z info: Start parser
+2024-08-12T21:39:03.980Z info: Finish parser
+2024-08-12T21:40:03.042Z info: Start parser
+2024-08-12T21:40:04.382Z info: Finish parser
+2024-08-12T21:41:02.373Z info: Start parser
+2024-08-12T21:41:03.484Z info: Finish parser
+2024-08-12T21:42:02.730Z info: Start parser
+2024-08-12T21:42:02.903Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T21:42:07.910Z error: try again after waiting
+2024-08-12T21:42:09.044Z info: Finish parser
+2024-08-12T21:43:03.195Z info: Start parser
+2024-08-12T21:43:04.316Z info: Finish parser
+2024-08-12T21:44:02.612Z info: Start parser
+2024-08-12T21:44:03.820Z info: Finish parser
+2024-08-12T21:45:03.292Z info: Start parser
+2024-08-12T21:45:04.374Z info: Finish parser
+2024-08-12T21:46:02.698Z info: Start parser
+2024-08-12T21:46:03.772Z info: Finish parser
+2024-08-12T21:47:02.969Z info: Start parser
+2024-08-12T21:47:04.136Z info: Finish parser
+2024-08-12T21:48:03.141Z info: Start parser
+2024-08-12T21:48:04.974Z info: Finish parser
+2024-08-12T21:49:02.484Z info: Start parser
+2024-08-12T21:49:03.556Z info: Finish parser
+2024-08-12T21:50:03.202Z info: Start parser
+2024-08-12T21:50:04.753Z info: Finish parser
+2024-08-12T21:51:02.730Z info: Start parser
+2024-08-12T21:51:04.024Z info: Finish parser
+2024-08-12T21:52:03.107Z info: Start parser
+2024-08-12T21:52:04.209Z info: Finish parser
+2024-08-12T21:53:02.629Z info: Start parser
+2024-08-12T21:53:03.779Z info: Finish parser
+2024-08-12T21:54:02.946Z info: Start parser
+2024-08-12T21:54:03.982Z info: Finish parser
+2024-08-12T21:55:02.558Z info: Start parser
+2024-08-12T21:55:03.617Z info: Finish parser
+2024-08-12T21:56:03.093Z info: Start parser
+2024-08-12T21:56:04.147Z info: Finish parser
+2024-08-12T21:57:02.499Z info: Start parser
+2024-08-12T21:57:03.613Z info: Finish parser
+2024-08-12T21:58:03.443Z info: Start parser
+2024-08-12T21:58:04.631Z info: Finish parser
+2024-08-12T21:59:02.757Z info: Start parser
+2024-08-12T21:59:03.795Z info: Finish parser
+2024-08-12T22:00:03.172Z info: Start parser
+2024-08-12T22:00:04.272Z info: Finish parser
+2024-08-12T22:01:02.693Z info: Start parser
+2024-08-12T22:01:03.749Z info: Finish parser
+2024-08-12T22:02:03.036Z info: Start parser
+2024-08-12T22:02:04.322Z info: Finish parser
+2024-08-12T22:03:02.398Z info: Start parser
+2024-08-12T22:03:03.466Z info: Finish parser
+2024-08-12T22:04:02.757Z info: Start parser
+2024-08-12T22:04:03.880Z info: Finish parser
+2024-08-12T22:05:03.807Z info: Start parser
+2024-08-12T22:05:04.906Z info: Finish parser
+2024-08-12T22:06:03.176Z info: Start parser
+2024-08-12T22:06:04.252Z info: Finish parser
+2024-08-12T22:07:02.497Z info: Start parser
+2024-08-12T22:07:03.563Z info: Finish parser
+2024-08-12T22:08:02.839Z info: Start parser
+2024-08-12T22:08:04.055Z info: Finish parser
+2024-08-12T22:09:03.947Z info: Start parser
+2024-08-12T22:09:05.205Z info: Finish parser
+2024-08-12T22:10:02.629Z info: Start parser
+2024-08-12T22:10:03.700Z info: Finish parser
+2024-08-12T22:11:03.087Z info: Start parser
+2024-08-12T22:11:04.267Z info: Finish parser
+2024-08-12T22:12:02.479Z info: Start parser
+2024-08-12T22:12:03.732Z info: Finish parser
+2024-08-12T22:13:02.818Z info: Start parser
+2024-08-12T22:13:04.088Z info: Finish parser
+2024-08-12T22:14:03.133Z info: Start parser
+2024-08-12T22:14:04.439Z info: Finish parser
+2024-08-12T22:15:03.038Z info: Start parser
+2024-08-12T22:15:04.163Z info: Finish parser
+2024-08-12T22:16:02.516Z info: Start parser
+2024-08-12T22:16:02.906Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T22:16:07.913Z error: try again after waiting
+2024-08-12T22:16:09.168Z info: Finish parser
+2024-08-12T22:17:03.182Z info: Start parser
+2024-08-12T22:17:04.397Z info: Finish parser
+2024-08-12T22:18:02.606Z info: Start parser
+2024-08-12T22:18:02.800Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T22:18:07.806Z error: try again after waiting
+2024-08-12T22:18:08.864Z info: Finish parser
+2024-08-12T22:19:03.249Z info: Start parser
+2024-08-12T22:19:04.524Z info: Finish parser
+2024-08-12T22:20:02.863Z info: Start parser
+2024-08-12T22:20:05.125Z info: Finish parser
+2024-08-12T22:21:03.253Z info: Start parser
+2024-08-12T22:21:04.323Z info: Finish parser
+2024-08-12T22:22:02.649Z info: Start parser
+2024-08-12T22:22:03.771Z info: Finish parser
+2024-08-12T22:23:03.059Z info: Start parser
+2024-08-12T22:23:03.241Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T22:23:08.249Z error: try again after waiting
+2024-08-12T22:23:09.416Z info: Finish parser
+2024-08-12T22:24:02.635Z info: Start parser
+2024-08-12T22:24:02.808Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T22:24:07.814Z error: try again after waiting
+2024-08-12T22:24:08.825Z info: Finish parser
+2024-08-12T22:25:03.225Z info: Start parser
+2024-08-12T22:25:04.355Z info: Finish parser
+2024-08-12T22:26:02.587Z info: Start parser
+2024-08-12T22:26:03.645Z info: Finish parser
+2024-08-12T22:27:03.184Z info: Start parser
+2024-08-12T22:27:04.356Z info: Finish parser
+2024-08-12T22:28:02.607Z info: Start parser
+2024-08-12T22:28:03.764Z info: Finish parser
+2024-08-12T22:29:02.925Z info: Start parser
+2024-08-12T22:29:04.030Z info: Finish parser
+2024-08-12T22:30:04.012Z info: Start parser
+2024-08-12T22:30:05.564Z info: Finish parser
+2024-08-12T22:31:02.372Z info: Start parser
+2024-08-12T22:31:03.498Z info: Finish parser
+2024-08-12T22:32:02.787Z info: Start parser
+2024-08-12T22:32:03.849Z info: Finish parser
+2024-08-12T22:33:03.089Z info: Start parser
+2024-08-12T22:33:04.151Z info: Finish parser
+2024-08-12T22:34:02.373Z info: Start parser
+2024-08-12T22:34:03.454Z info: Finish parser
+2024-08-12T22:35:02.805Z info: Start parser
+2024-08-12T22:35:04.965Z info: Finish parser
+2024-08-12T22:36:03.215Z info: Start parser
+2024-08-12T22:36:04.255Z info: Finish parser
+2024-08-12T22:37:02.545Z info: Start parser
+2024-08-12T22:37:03.594Z info: Finish parser
+2024-08-12T22:38:02.940Z info: Start parser
+2024-08-12T22:38:03.332Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T22:38:08.338Z error: try again after waiting
+2024-08-12T22:38:09.527Z info: Finish parser
+2024-08-12T22:39:02.869Z info: Start parser
+2024-08-12T22:39:03.911Z info: Finish parser
+2024-08-12T22:40:03.966Z info: Start parser
+2024-08-12T22:40:05.323Z info: Finish parser
+2024-08-12T22:41:02.496Z info: Start parser
+2024-08-12T22:41:03.717Z info: Finish parser
+2024-08-12T22:42:02.962Z info: Start parser
+2024-08-12T22:42:04.103Z info: Finish parser
+2024-08-12T22:43:02.489Z info: Start parser
+2024-08-12T22:43:03.559Z info: Finish parser
+2024-08-12T22:44:02.822Z info: Start parser
+2024-08-12T22:44:03.870Z info: Finish parser
+2024-08-12T22:45:03.502Z info: Start parser
+2024-08-12T22:45:04.626Z info: Finish parser
+2024-08-12T22:46:02.852Z info: Start parser
+2024-08-12T22:46:03.901Z info: Finish parser
+2024-08-12T22:47:03.251Z info: Start parser
+2024-08-12T22:47:13.596Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T22:47:18.598Z error: try again after waiting
+2024-08-12T22:47:18.766Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T22:47:23.772Z error: try again after waiting
+2024-08-12T22:47:24.877Z info: Finish parser
+2024-08-12T22:48:03.052Z info: Start parser
+2024-08-12T22:48:04.197Z info: Finish parser
+2024-08-12T22:49:02.426Z info: Start parser
+2024-08-12T22:49:03.515Z info: Finish parser
+2024-08-12T22:50:02.866Z info: Start parser
+2024-08-12T22:50:04.158Z info: Finish parser
+2024-08-12T22:51:03.643Z info: Start parser
+2024-08-12T22:51:05.052Z info: Finish parser
+2024-08-12T22:52:03.168Z info: Start parser
+2024-08-12T22:52:05.184Z info: Finish parser
+2024-08-12T22:53:02.476Z info: Start parser
+2024-08-12T22:53:04.587Z info: Finish parser
+2024-08-12T22:54:02.927Z info: Start parser
+2024-08-12T22:54:04.046Z info: Finish parser
+2024-08-12T22:55:03.273Z info: Start parser
+2024-08-12T22:55:04.474Z info: Finish parser
+2024-08-12T22:56:02.608Z info: Start parser
+2024-08-12T22:56:03.703Z info: Finish parser
+2024-08-12T22:57:02.984Z info: Start parser
+2024-08-12T22:57:04.247Z info: Finish parser
+2024-08-12T22:58:02.326Z info: Start parser
+2024-08-12T22:58:02.493Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T22:58:07.500Z error: try again after waiting
+2024-08-12T22:58:08.500Z info: Finish parser
+2024-08-12T22:59:02.808Z info: Start parser
+2024-08-12T22:59:03.861Z info: Finish parser
+2024-08-12T23:00:03.459Z info: Start parser
+2024-08-12T23:00:04.537Z info: Finish parser
+2024-08-12T23:01:02.927Z info: Start parser
+2024-08-12T23:01:03.100Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T23:01:08.107Z error: try again after waiting
+2024-08-12T23:01:09.109Z info: Finish parser
+2024-08-12T23:02:02.861Z info: Start parser
+2024-08-12T23:02:05.398Z info: Finish parser
+2024-08-12T23:03:03.251Z info: Start parser
+2024-08-12T23:03:04.318Z info: Finish parser
+2024-08-12T23:04:02.697Z info: Start parser
+2024-08-12T23:04:02.879Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T23:04:07.882Z error: try again after waiting
+2024-08-12T23:04:08.898Z info: Finish parser
+2024-08-12T23:05:03.137Z info: Start parser
+2024-08-12T23:05:04.227Z info: Finish parser
+2024-08-12T23:06:02.584Z info: Start parser
+2024-08-12T23:06:03.735Z info: Finish parser
+2024-08-12T23:07:02.978Z info: Start parser
+2024-08-12T23:07:03.152Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T23:07:08.159Z error: try again after waiting
+2024-08-12T23:07:09.255Z info: Finish parser
+2024-08-12T23:08:02.511Z info: Start parser
+2024-08-12T23:08:03.660Z info: Finish parser
+2024-08-12T23:09:02.890Z info: Start parser
+2024-08-12T23:09:03.968Z info: Finish parser
+2024-08-12T23:10:03.407Z info: Start parser
+2024-08-12T23:10:04.486Z info: Finish parser
+2024-08-12T23:11:02.899Z info: Start parser
+2024-08-12T23:11:03.071Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T23:11:08.079Z error: try again after waiting
+2024-08-12T23:11:09.314Z info: Finish parser
+2024-08-12T23:12:02.953Z info: Start parser
+2024-08-12T23:12:04.839Z info: Finish parser
+2024-08-12T23:13:02.385Z info: Start parser
+2024-08-12T23:13:03.493Z info: Finish parser
+2024-08-12T23:14:02.819Z info: Start parser
+2024-08-12T23:14:03.878Z info: Finish parser
+2024-08-12T23:15:03.219Z info: Start parser
+2024-08-12T23:15:04.965Z info: Finish parser
+2024-08-12T23:16:02.563Z info: Start parser
+2024-08-12T23:16:03.714Z info: Finish parser
+2024-08-12T23:17:02.876Z info: Start parser
+2024-08-12T23:17:04.191Z info: Finish parser
+2024-08-12T23:18:03.195Z info: Start parser
+2024-08-12T23:18:04.258Z info: Finish parser
+2024-08-12T23:19:02.521Z info: Start parser
+2024-08-12T23:19:03.704Z info: Finish parser
+2024-08-12T23:20:03.029Z info: Start parser
+2024-08-12T23:20:03.207Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T23:20:08.214Z error: try again after waiting
+2024-08-12T23:20:09.267Z info: Finish parser
+2024-08-12T23:21:03.124Z info: Start parser
+2024-08-12T23:21:04.217Z info: Finish parser
+2024-08-12T23:22:02.461Z info: Start parser
+2024-08-12T23:22:03.534Z info: Finish parser
+2024-08-12T23:23:03.432Z info: Start parser
+2024-08-12T23:23:04.787Z info: Finish parser
+2024-08-12T23:24:02.885Z info: Start parser
+2024-08-12T23:24:03.942Z info: Finish parser
+2024-08-12T23:25:03.812Z info: Start parser
+2024-08-12T23:25:04.917Z info: Finish parser
+2024-08-12T23:26:03.134Z info: Start parser
+2024-08-12T23:26:04.221Z info: Finish parser
+2024-08-12T23:27:02.482Z info: Start parser
+2024-08-12T23:27:03.592Z info: Finish parser
+2024-08-12T23:28:02.793Z info: Start parser
+2024-08-12T23:28:03.914Z info: Finish parser
+2024-08-12T23:29:03.119Z info: Start parser
+2024-08-12T23:29:04.207Z info: Finish parser
+2024-08-12T23:30:02.716Z info: Start parser
+2024-08-12T23:30:04.035Z info: Finish parser
+2024-08-12T23:31:03.331Z info: Start parser
+2024-08-12T23:31:04.411Z info: Finish parser
+2024-08-12T23:32:02.638Z info: Start parser
+2024-08-12T23:32:03.714Z info: Finish parser
+2024-08-12T23:33:02.988Z info: Start parser
+2024-08-12T23:33:04.296Z info: Finish parser
+2024-08-12T23:34:02.610Z info: Start parser
+2024-08-12T23:34:04.068Z info: Finish parser
+2024-08-12T23:35:03.049Z info: Start parser
+2024-08-12T23:35:04.100Z info: Finish parser
+2024-08-12T23:36:02.380Z info: Start parser
+2024-08-12T23:36:03.459Z info: Finish parser
+2024-08-12T23:37:02.858Z info: Start parser
+2024-08-12T23:37:03.952Z info: Finish parser
+2024-08-12T23:38:03.174Z info: Start parser
+2024-08-12T23:38:04.355Z info: Finish parser
+2024-08-12T23:39:02.628Z info: Start parser
+2024-08-12T23:39:03.734Z info: Finish parser
+2024-08-12T23:40:03.028Z info: Start parser
+2024-08-12T23:40:05.155Z info: Finish parser
+2024-08-12T23:41:02.312Z info: Start parser
+2024-08-12T23:41:03.416Z info: Finish parser
+2024-08-12T23:42:02.827Z info: Start parser
+2024-08-12T23:42:04.364Z info: Finish parser
+2024-08-12T23:43:03.238Z info: Start parser
+2024-08-12T23:43:03.422Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T23:43:08.428Z error: try again after waiting
+2024-08-12T23:43:09.624Z info: Finish parser
+2024-08-12T23:44:03.131Z info: Start parser
+2024-08-12T23:44:04.698Z info: Finish parser
+2024-08-12T23:45:02.493Z info: Start parser
+2024-08-12T23:45:03.586Z info: Finish parser
+2024-08-12T23:46:02.767Z info: Start parser
+2024-08-12T23:46:03.865Z info: Finish parser
+2024-08-12T23:47:03.058Z info: Start parser
+2024-08-12T23:47:04.344Z info: Finish parser
+2024-08-12T23:48:02.423Z info: Start parser
+2024-08-12T23:48:03.482Z info: Finish parser
+2024-08-12T23:49:02.757Z info: Start parser
+2024-08-12T23:49:04.487Z info: Finish parser
+2024-08-12T23:50:03.152Z info: Start parser
+2024-08-12T23:50:03.336Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T23:50:08.343Z error: try again after waiting
+2024-08-12T23:50:09.350Z info: Finish parser
+2024-08-12T23:51:02.702Z info: Start parser
+2024-08-12T23:51:03.884Z info: Finish parser
+2024-08-12T23:52:03.006Z info: Start parser
+2024-08-12T23:52:04.090Z info: Finish parser
+2024-08-12T23:53:02.342Z info: Start parser
+2024-08-12T23:53:03.485Z info: Finish parser
+2024-08-12T23:54:02.786Z info: Start parser
+2024-08-12T23:54:02.978Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-12T23:54:07.986Z error: try again after waiting
+2024-08-12T23:54:09.040Z info: Finish parser
+2024-08-12T23:55:03.982Z info: Start parser
+2024-08-12T23:55:05.577Z info: Finish parser
+2024-08-12T23:56:02.400Z info: Start parser
+2024-08-12T23:56:03.772Z info: Finish parser
+2024-08-12T23:57:02.765Z info: Start parser
+2024-08-12T23:57:03.859Z info: Finish parser
+2024-08-12T23:58:03.152Z info: Start parser
+2024-08-12T23:58:04.252Z info: Finish parser
+2024-08-12T23:59:02.502Z info: Start parser
+2024-08-12T23:59:03.779Z info: Finish parser
+2024-08-13T00:00:03.235Z info: Start parser
+2024-08-13T00:00:04.373Z info: Finish parser
+2024-08-13T00:01:02.665Z info: Start parser
+2024-08-13T00:01:03.760Z info: Finish parser
+2024-08-13T00:02:03.039Z info: Start parser
+2024-08-13T00:02:04.145Z info: Finish parser
+2024-08-13T00:03:02.419Z info: Start parser
+2024-08-13T00:03:03.632Z info: Finish parser
+2024-08-13T00:04:02.765Z info: Start parser
+2024-08-13T00:04:03.916Z info: Finish parser
+2024-08-13T00:05:03.793Z info: Start parser
+2024-08-13T00:05:05.264Z info: Finish parser
+2024-08-13T00:06:03.146Z info: Start parser
+2024-08-13T00:06:04.231Z info: Finish parser
+2024-08-13T00:07:02.586Z info: Start parser
+2024-08-13T00:07:03.727Z info: Finish parser
+2024-08-13T00:08:03.511Z info: Start parser
+2024-08-13T00:08:04.675Z info: Finish parser
+2024-08-13T00:09:02.819Z info: Start parser
+2024-08-13T00:09:02.999Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T00:09:08.006Z error: try again after waiting
+2024-08-13T00:09:09.075Z info: Finish parser
+2024-08-13T00:10:02.432Z info: Start parser
+2024-08-13T00:10:04.200Z info: Finish parser
+2024-08-13T00:11:02.840Z info: Start parser
+2024-08-13T00:11:04.066Z info: Finish parser
+2024-08-13T00:12:03.137Z info: Start parser
+2024-08-13T00:12:04.202Z info: Finish parser
+2024-08-13T00:13:02.412Z info: Start parser
+2024-08-13T00:13:02.589Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T00:13:07.596Z error: try again after waiting
+2024-08-13T00:13:07.720Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T00:13:12.723Z error: try again after waiting
+2024-08-13T00:13:13.721Z info: Finish parser
+2024-08-13T00:14:02.937Z info: Start parser
+2024-08-13T00:14:03.994Z info: Finish parser
+2024-08-13T00:15:02.865Z info: Start parser
+2024-08-13T00:15:04.034Z info: Finish parser
+2024-08-13T00:16:03.223Z info: Start parser
+2024-08-13T00:16:04.603Z info: Finish parser
+2024-08-13T00:17:02.564Z info: Start parser
+2024-08-13T00:17:03.640Z info: Finish parser
+2024-08-13T00:18:02.860Z info: Start parser
+2024-08-13T00:18:03.039Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T00:18:08.046Z error: try again after waiting
+2024-08-13T00:18:09.071Z info: Finish parser
+2024-08-13T00:19:02.511Z info: Start parser
+2024-08-13T00:19:03.676Z info: Finish parser
+2024-08-13T00:20:02.930Z info: Start parser
+2024-08-13T00:20:04.002Z info: Finish parser
+2024-08-13T00:21:02.287Z info: Start parser
+2024-08-13T00:21:03.346Z info: Finish parser
+2024-08-13T00:22:02.594Z info: Start parser
+2024-08-13T00:22:03.657Z info: Finish parser
+2024-08-13T00:23:03.063Z info: Start parser
+2024-08-13T00:23:04.139Z info: Finish parser
+2024-08-13T00:24:02.451Z info: Start parser
+2024-08-13T00:24:03.530Z info: Finish parser
+2024-08-13T00:25:02.755Z info: Start parser
+2024-08-13T00:25:03.927Z info: Finish parser
+2024-08-13T00:26:03.556Z info: Start parser
+2024-08-13T00:26:05.097Z info: Finish parser
+2024-08-13T00:27:03.035Z info: Start parser
+2024-08-13T00:27:03.224Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T00:27:08.230Z error: try again after waiting
+2024-08-13T00:27:09.604Z info: Finish parser
+2024-08-13T00:28:02.607Z info: Start parser
+2024-08-13T00:28:03.684Z info: Finish parser
+2024-08-13T00:29:03.193Z info: Start parser
+2024-08-13T00:29:04.309Z info: Finish parser
+2024-08-13T00:30:02.997Z info: Start parser
+2024-08-13T00:30:04.390Z info: Finish parser
+2024-08-13T00:31:02.460Z info: Start parser
+2024-08-13T00:31:03.622Z info: Finish parser
+2024-08-13T00:32:02.871Z info: Start parser
+2024-08-13T00:32:03.061Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T00:32:08.068Z error: try again after waiting
+2024-08-13T00:32:09.165Z info: Finish parser
+2024-08-13T00:33:02.420Z info: Start parser
+2024-08-13T00:33:03.637Z info: Finish parser
+2024-08-13T00:34:02.741Z info: Start parser
+2024-08-13T00:34:03.895Z info: Finish parser
+2024-08-13T00:35:03.044Z info: Start parser
+2024-08-13T00:35:04.186Z info: Finish parser
+2024-08-13T00:36:02.947Z info: Start parser
+2024-08-13T00:36:04.682Z info: Finish parser
+2024-08-13T00:37:02.279Z info: Start parser
+2024-08-13T00:37:03.625Z info: Finish parser
+2024-08-13T00:38:02.717Z info: Start parser
+2024-08-13T00:38:03.845Z info: Finish parser
+2024-08-13T00:39:03.165Z info: Start parser
+2024-08-13T00:39:04.591Z info: Finish parser
+2024-08-13T00:40:02.532Z info: Start parser
+2024-08-13T00:40:03.671Z info: Finish parser
+2024-08-13T00:41:03.000Z info: Start parser
+2024-08-13T00:41:04.182Z info: Finish parser
+2024-08-13T00:42:02.457Z info: Start parser
+2024-08-13T00:42:03.751Z info: Finish parser
+2024-08-13T00:43:02.936Z info: Start parser
+2024-08-13T00:43:04.021Z info: Finish parser
+2024-08-13T00:44:02.399Z info: Start parser
+2024-08-13T00:44:02.812Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T00:44:07.818Z error: try again after waiting
+2024-08-13T00:44:09.098Z info: Finish parser
+2024-08-13T00:45:03.175Z info: Start parser
+2024-08-13T00:45:04.530Z info: Finish parser
+2024-08-13T00:46:03.242Z info: Start parser
+2024-08-13T00:46:04.722Z info: Finish parser
+2024-08-13T00:47:02.745Z info: Start parser
+2024-08-13T00:47:03.838Z info: Finish parser
+2024-08-13T00:48:03.036Z info: Start parser
+2024-08-13T00:48:04.112Z info: Finish parser
+2024-08-13T00:49:02.380Z info: Start parser
+2024-08-13T00:49:03.505Z info: Finish parser
+2024-08-13T00:50:02.854Z info: Start parser
+2024-08-13T00:50:03.039Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T00:50:08.045Z error: try again after waiting
+2024-08-13T00:50:09.053Z info: Finish parser
+2024-08-13T00:51:02.348Z info: Start parser
+2024-08-13T00:51:03.472Z info: Finish parser
+2024-08-13T00:52:02.918Z info: Start parser
+2024-08-13T00:52:13.272Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T00:52:18.273Z error: try again after waiting
+2024-08-13T00:52:19.291Z info: Finish parser
+2024-08-13T00:53:02.660Z info: Start parser
+2024-08-13T00:53:03.769Z info: Finish parser
+2024-08-13T00:54:03.055Z info: Start parser
+2024-08-13T00:54:04.269Z info: Finish parser
+2024-08-13T00:55:02.521Z info: Start parser
+2024-08-13T00:55:03.645Z info: Finish parser
+2024-08-13T00:56:03.470Z info: Start parser
+2024-08-13T00:56:04.927Z info: Finish parser
+2024-08-13T00:57:02.784Z info: Start parser
+2024-08-13T00:57:04.852Z info: Finish parser
+2024-08-13T00:58:03.130Z info: Start parser
+2024-08-13T00:58:04.360Z info: Finish parser
+2024-08-13T00:59:02.467Z info: Start parser
+2024-08-13T00:59:03.578Z info: Finish parser
+2024-08-13T01:00:03.031Z info: Start parser
+2024-08-13T01:00:04.258Z info: Finish parser
+2024-08-13T01:01:02.376Z info: Start parser
+2024-08-13T01:01:03.721Z info: Finish parser
+2024-08-13T01:02:02.736Z info: Start parser
+2024-08-13T01:02:03.789Z info: Finish parser
+2024-08-13T01:03:03.101Z info: Start parser
+2024-08-13T01:03:04.258Z info: Finish parser
+2024-08-13T01:04:02.451Z info: Start parser
+2024-08-13T01:04:03.504Z info: Finish parser
+2024-08-13T01:05:02.918Z info: Start parser
+2024-08-13T01:05:04.033Z info: Finish parser
+2024-08-13T01:06:03.929Z info: Start parser
+2024-08-13T01:06:05.132Z info: Finish parser
+2024-08-13T01:07:02.424Z info: Start parser
+2024-08-13T01:07:02.614Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T01:07:07.620Z error: try again after waiting
+2024-08-13T01:07:09.047Z info: Finish parser
+2024-08-13T01:08:02.990Z info: Start parser
+2024-08-13T01:08:03.167Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T01:08:08.173Z error: try again after waiting
+2024-08-13T01:08:09.241Z info: Finish parser
+2024-08-13T01:09:02.563Z info: Start parser
+2024-08-13T01:09:03.652Z info: Finish parser
+2024-08-13T01:10:03.122Z info: Start parser
+2024-08-13T01:10:04.448Z info: Finish parser
+2024-08-13T01:11:02.546Z info: Start parser
+2024-08-13T01:11:03.660Z info: Finish parser
+2024-08-13T01:12:03.094Z info: Start parser
+2024-08-13T01:12:04.228Z info: Finish parser
+2024-08-13T01:13:02.529Z info: Start parser
+2024-08-13T01:13:03.629Z info: Finish parser
+2024-08-13T01:14:02.896Z info: Start parser
+2024-08-13T01:14:04.225Z info: Finish parser
+2024-08-13T01:15:03.354Z info: Start parser
+2024-08-13T01:15:04.536Z info: Finish parser
+2024-08-13T01:16:02.957Z info: Start parser
+2024-08-13T01:16:04.342Z info: Finish parser
+2024-08-13T01:17:02.269Z info: Start parser
+2024-08-13T01:17:03.770Z info: Finish parser
+2024-08-13T01:18:02.673Z info: Start parser
+2024-08-13T01:18:03.793Z info: Finish parser
+2024-08-13T01:19:02.975Z info: Start parser
+2024-08-13T01:19:04.029Z info: Finish parser
+2024-08-13T01:20:03.753Z info: Start parser
+2024-08-13T01:20:04.864Z info: Finish parser
+2024-08-13T01:21:03.461Z info: Start parser
+2024-08-13T01:21:04.577Z info: Finish parser
+2024-08-13T01:22:02.810Z info: Start parser
+2024-08-13T01:22:03.905Z info: Finish parser
+2024-08-13T01:23:03.128Z info: Start parser
+2024-08-13T01:23:04.246Z info: Finish parser
+2024-08-13T01:24:02.794Z info: Start parser
+2024-08-13T01:24:03.961Z info: Finish parser
+2024-08-13T01:25:03.289Z info: Start parser
+2024-08-13T01:25:04.398Z info: Finish parser
+2024-08-13T01:26:02.657Z info: Start parser
+2024-08-13T01:26:03.787Z info: Finish parser
+2024-08-13T01:27:03.719Z info: Start parser
+2024-08-13T01:27:05.227Z info: Finish parser
+2024-08-13T01:28:03.182Z info: Start parser
+2024-08-13T01:28:03.358Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T01:28:08.365Z error: try again after waiting
+2024-08-13T01:28:10.066Z info: Finish parser
+2024-08-13T01:29:02.672Z info: Start parser
+2024-08-13T01:29:03.806Z info: Finish parser
+2024-08-13T01:30:03.532Z info: Start parser
+2024-08-13T01:30:04.756Z info: Finish parser
+2024-08-13T01:31:02.927Z info: Start parser
+2024-08-13T01:31:03.999Z info: Finish parser
+2024-08-13T01:32:03.243Z info: Start parser
+2024-08-13T01:32:04.344Z info: Finish parser
+2024-08-13T01:33:02.801Z info: Start parser
+2024-08-13T01:33:03.897Z info: Finish parser
+2024-08-13T01:34:03.151Z info: Start parser
+2024-08-13T01:34:03.332Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T01:34:08.339Z error: try again after waiting
+2024-08-13T01:34:10.550Z info: Finish parser
+2024-08-13T01:35:02.656Z info: Start parser
+2024-08-13T01:35:03.849Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T01:35:08.855Z error: try again after waiting
+2024-08-13T01:35:09.965Z info: Finish parser
+2024-08-13T01:36:03.768Z info: Start parser
+2024-08-13T01:36:05.101Z info: Finish parser
+2024-08-13T01:37:03.846Z info: Start parser
+2024-08-13T01:37:05.303Z info: Finish parser
+2024-08-13T01:38:03.353Z info: Start parser
+2024-08-13T01:38:04.569Z info: Finish parser
+2024-08-13T01:39:02.658Z info: Start parser
+2024-08-13T01:39:03.717Z info: Finish parser
+2024-08-13T01:40:02.984Z info: Start parser
+2024-08-13T01:40:04.055Z info: Finish parser
+2024-08-13T01:41:02.389Z info: Start parser
+2024-08-13T01:41:03.696Z info: Finish parser
+2024-08-13T01:42:02.826Z info: Start parser
+2024-08-13T01:42:04.123Z info: Finish parser
+2024-08-13T01:43:03.183Z info: Start parser
+2024-08-13T01:43:03.376Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T01:43:08.383Z error: try again after waiting
+2024-08-13T01:43:09.616Z info: Finish parser
+2024-08-13T01:44:02.635Z info: Start parser
+2024-08-13T01:44:02.822Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T01:44:07.829Z error: try again after waiting
+2024-08-13T01:44:08.836Z info: Finish parser
+2024-08-13T01:45:03.373Z info: Start parser
+2024-08-13T01:45:04.543Z info: Finish parser
+2024-08-13T01:46:02.830Z info: Start parser
+2024-08-13T01:46:03.903Z info: Finish parser
+2024-08-13T01:47:03.535Z info: Start parser
+2024-08-13T01:47:04.659Z info: Finish parser
+2024-08-13T01:48:03.408Z info: Start parser
+2024-08-13T01:48:04.838Z info: Finish parser
+2024-08-13T01:49:02.785Z info: Start parser
+2024-08-13T01:49:04.113Z info: Finish parser
+2024-08-13T01:50:03.137Z info: Start parser
+2024-08-13T01:50:04.254Z info: Finish parser
+2024-08-13T01:51:02.479Z info: Start parser
+2024-08-13T01:51:03.657Z info: Finish parser
+2024-08-13T01:52:02.849Z info: Start parser
+2024-08-13T01:52:04.157Z info: Finish parser
+2024-08-13T01:53:03.215Z info: Start parser
+2024-08-13T01:53:04.400Z info: Finish parser
+2024-08-13T01:54:02.599Z info: Start parser
+2024-08-13T01:54:03.785Z info: Finish parser
+2024-08-13T01:55:03.058Z info: Start parser
+2024-08-13T01:55:04.251Z info: Finish parser
+2024-08-13T01:56:02.425Z info: Start parser
+2024-08-13T01:56:02.605Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T01:56:07.612Z error: try again after waiting
+2024-08-13T01:56:08.669Z info: Finish parser
+2024-08-13T01:57:02.973Z info: Start parser
+2024-08-13T01:57:04.143Z info: Finish parser
+2024-08-13T01:58:02.972Z info: Start parser
+2024-08-13T01:58:04.493Z info: Finish parser
+2024-08-13T01:59:02.387Z info: Start parser
+2024-08-13T01:59:03.520Z info: Finish parser
+2024-08-13T02:00:03.137Z info: Start parser
+2024-08-13T02:00:04.280Z info: Finish parser
+2024-08-13T02:01:02.439Z info: Start parser
+2024-08-13T02:01:03.516Z info: Finish parser
+2024-08-13T02:02:02.813Z info: Start parser
+2024-08-13T02:02:03.919Z info: Finish parser
+2024-08-13T02:03:03.145Z info: Start parser
+2024-08-13T02:03:04.915Z info: Finish parser
+2024-08-13T02:04:02.613Z info: Start parser
+2024-08-13T02:04:04.022Z info: Finish parser
+2024-08-13T02:05:02.990Z info: Start parser
+2024-08-13T02:05:04.185Z info: Finish parser
+2024-08-13T02:06:02.471Z info: Start parser
+2024-08-13T02:06:03.567Z info: Finish parser
+2024-08-13T02:07:02.793Z info: Start parser
+2024-08-13T02:07:03.869Z info: Finish parser
+2024-08-13T02:08:03.915Z info: Start parser
+2024-08-13T02:08:05.790Z info: Finish parser
+2024-08-13T02:09:02.400Z info: Start parser
+2024-08-13T02:09:03.615Z info: Finish parser
+2024-08-13T02:10:02.819Z info: Start parser
+2024-08-13T02:10:03.954Z info: Finish parser
+2024-08-13T02:11:03.195Z info: Start parser
+2024-08-13T02:11:04.328Z info: Finish parser
+2024-08-13T02:12:02.669Z info: Start parser
+2024-08-13T02:12:04.002Z info: Finish parser
+2024-08-13T02:13:02.975Z info: Start parser
+2024-08-13T02:13:04.034Z info: Finish parser
+2024-08-13T02:14:02.429Z info: Start parser
+2024-08-13T02:14:02.604Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T02:14:07.610Z error: try again after waiting
+2024-08-13T02:14:08.616Z info: Finish parser
+2024-08-13T02:15:03.059Z info: Start parser
+2024-08-13T02:15:04.266Z info: Finish parser
+2024-08-13T02:16:02.456Z info: Start parser
+2024-08-13T02:16:03.564Z info: Finish parser
+2024-08-13T02:17:02.836Z info: Start parser
+2024-08-13T02:17:03.966Z info: Finish parser
+2024-08-13T02:18:03.574Z info: Start parser
+2024-08-13T02:18:04.950Z info: Finish parser
+2024-08-13T02:19:02.994Z info: Start parser
+2024-08-13T02:19:03.401Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T02:19:08.405Z error: try again after waiting
+2024-08-13T02:19:10.019Z info: Finish parser
+2024-08-13T02:20:02.706Z info: Start parser
+2024-08-13T02:20:02.883Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T02:20:07.890Z error: try again after waiting
+2024-08-13T02:20:09.167Z info: Finish parser
+2024-08-13T02:21:03.268Z info: Start parser
+2024-08-13T02:21:03.463Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T02:21:08.466Z error: try again after waiting
+2024-08-13T02:21:09.501Z info: Finish parser
+2024-08-13T02:22:02.749Z info: Start parser
+2024-08-13T02:25:02.963Z info: Start parser
+2024-08-13T02:25:04.059Z info: Finish parser
+2024-08-13T02:26:02.404Z info: Start parser
+2024-08-13T02:26:03.586Z info: Finish parser
+2024-08-13T02:27:02.804Z info: Start parser
+2024-08-13T02:27:03.935Z info: Finish parser
+2024-08-13T02:28:03.574Z info: Start parser
+2024-08-13T02:28:04.821Z info: Finish parser
+2024-08-13T02:29:03.137Z info: Start parser
+2024-08-13T02:29:04.482Z info: Finish parser
+2024-08-13T02:30:02.630Z info: Start parser
+2024-08-13T02:30:03.736Z info: Finish parser
+2024-08-13T02:31:02.984Z info: Start parser
+2024-08-13T02:31:04.157Z info: Finish parser
+2024-08-13T02:32:02.344Z info: Start parser
+2024-08-13T02:32:03.513Z info: Finish parser
+2024-08-13T02:33:02.846Z info: Start parser
+2024-08-13T02:33:03.995Z info: Finish parser
+2024-08-13T02:34:03.252Z info: Start parser
+2024-08-13T02:34:04.643Z info: Finish parser
+2024-08-13T02:35:02.646Z info: Start parser
+2024-08-13T02:35:03.712Z info: Finish parser
+2024-08-13T02:36:03.051Z info: Start parser
+2024-08-13T02:36:04.156Z info: Finish parser
+2024-08-13T02:37:02.507Z info: Start parser
+2024-08-13T02:37:03.685Z info: Finish parser
+2024-08-13T02:38:03.024Z info: Start parser
+2024-08-13T02:38:04.159Z info: Finish parser
+2024-08-13T02:39:03.013Z info: Start parser
+2024-08-13T02:39:04.558Z info: Finish parser
+2024-08-13T02:40:02.502Z info: Start parser
+2024-08-13T02:40:03.674Z info: Finish parser
+2024-08-13T02:41:02.918Z info: Start parser
+2024-08-13T02:41:03.979Z info: Finish parser
+2024-08-13T02:42:03.223Z info: Start parser
+2024-08-13T02:42:03.394Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T02:42:08.401Z error: try again after waiting
+2024-08-13T02:42:09.577Z info: Finish parser
+2024-08-13T02:43:02.652Z info: Start parser
+2024-08-13T02:43:03.722Z info: Finish parser
+2024-08-13T02:44:02.982Z info: Start parser
+2024-08-13T02:44:04.047Z info: Finish parser
+2024-08-13T02:45:02.461Z info: Start parser
+2024-08-13T02:45:03.626Z info: Finish parser
+2024-08-13T02:46:02.854Z info: Start parser
+2024-08-13T02:46:03.917Z info: Finish parser
+2024-08-13T02:47:03.159Z info: Start parser
+2024-08-13T02:47:04.222Z info: Finish parser
+2024-08-13T02:48:02.463Z info: Start parser
+2024-08-13T02:48:03.523Z info: Finish parser
+2024-08-13T02:49:03.246Z info: Start parser
+2024-08-13T02:49:04.593Z info: Finish parser
+2024-08-13T02:50:02.694Z info: Start parser
+2024-08-13T02:50:03.904Z info: Finish parser
+2024-08-13T02:51:03.164Z info: Start parser
+2024-08-13T02:51:04.270Z info: Finish parser
+2024-08-13T02:52:02.696Z info: Start parser
+2024-08-13T02:52:03.821Z info: Finish parser
+2024-08-13T02:53:03.101Z info: Start parser
+2024-08-13T02:53:06.237Z info: Finish parser
+2024-08-13T02:54:02.438Z info: Start parser
+2024-08-13T02:54:02.621Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T02:54:07.627Z error: try again after waiting
+2024-08-13T02:54:08.601Z info: Finish parser
+2024-08-13T02:55:02.943Z info: Start parser
+2024-08-13T02:55:03.999Z info: Finish parser
+2024-08-13T02:56:02.294Z info: Start parser
+2024-08-13T02:56:03.596Z info: Finish parser
+2024-08-13T02:57:02.744Z info: Start parser
+2024-08-13T02:57:03.942Z info: Finish parser
+2024-08-13T02:58:03.105Z info: Start parser
+2024-08-13T02:58:04.227Z info: Finish parser
+2024-08-13T02:59:02.927Z info: Start parser
+2024-08-13T02:59:04.223Z info: Finish parser
+2024-08-13T03:00:02.510Z info: Start parser
+2024-08-13T03:00:03.706Z info: Finish parser
+2024-08-13T03:01:02.877Z info: Start parser
+2024-08-13T03:01:04.030Z info: Finish parser
+2024-08-13T03:02:03.250Z info: Start parser
+2024-08-13T03:02:04.344Z info: Finish parser
+2024-08-13T03:03:02.597Z info: Start parser
+2024-08-13T03:03:02.773Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T03:03:07.778Z error: try again after waiting
+2024-08-13T03:03:08.810Z info: Finish parser
+2024-08-13T03:04:03.095Z info: Start parser
+2024-08-13T03:04:04.670Z info: Finish parser
+2024-08-13T03:05:02.556Z info: Start parser
+2024-08-13T03:05:12.890Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T03:05:17.892Z error: try again after waiting
+2024-08-13T03:05:19.257Z info: Finish parser
+2024-08-13T03:06:03.374Z info: Start parser
+2024-08-13T03:06:04.720Z info: Finish parser
+2024-08-13T03:07:02.679Z info: Start parser
+2024-08-13T03:07:03.754Z info: Finish parser
+2024-08-13T03:08:03.055Z info: Start parser
+2024-08-13T03:08:04.416Z info: Finish parser
+2024-08-13T03:09:03.033Z info: Start parser
+2024-08-13T03:09:04.521Z info: Finish parser
+2024-08-13T03:10:02.475Z info: Start parser
+2024-08-13T03:10:03.830Z info: Finish parser
+2024-08-13T03:11:02.880Z info: Start parser
+2024-08-13T03:11:04.014Z info: Finish parser
+2024-08-13T03:12:03.192Z info: Start parser
+2024-08-13T03:12:04.271Z info: Finish parser
+2024-08-13T03:13:02.606Z info: Start parser
+2024-08-13T03:13:04.126Z info: Finish parser
+2024-08-13T03:14:02.936Z info: Start parser
+2024-08-13T03:14:04.249Z info: Finish parser
+2024-08-13T03:15:02.589Z info: Start parser
+2024-08-13T03:15:03.882Z info: Finish parser
+2024-08-13T03:16:02.897Z info: Start parser
+2024-08-13T03:16:04.023Z info: Finish parser
+2024-08-13T03:17:03.356Z info: Start parser
+2024-08-13T03:17:04.562Z info: Finish parser
+2024-08-13T03:18:02.675Z info: Start parser
+2024-08-13T03:18:04.007Z info: Finish parser
+2024-08-13T03:19:03.477Z info: Start parser
+2024-08-13T03:19:04.794Z info: Finish parser
+2024-08-13T03:20:02.913Z info: Start parser
+2024-08-13T03:20:03.991Z info: Finish parser
+2024-08-13T03:21:03.317Z info: Start parser
+2024-08-13T03:21:04.501Z info: Finish parser
+2024-08-13T03:22:02.787Z info: Start parser
+2024-08-13T03:22:02.970Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T03:22:07.978Z error: try again after waiting
+2024-08-13T03:22:09.034Z info: Finish parser
+2024-08-13T03:23:03.316Z info: Start parser
+2024-08-13T03:23:04.425Z info: Finish parser
+2024-08-13T03:24:02.720Z info: Start parser
+2024-08-13T03:24:03.801Z info: Finish parser
+2024-08-13T03:25:04.537Z info: Start parser
+2024-08-13T03:25:06.018Z info: Finish parser
+2024-08-13T03:26:05.136Z info: Start parser
+2024-08-13T03:26:06.259Z info: Finish parser
+2024-08-13T03:27:02.755Z info: Start parser
+2024-08-13T03:27:03.921Z info: Finish parser
+2024-08-13T03:28:03.058Z info: Start parser
+2024-08-13T03:28:03.241Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T03:28:08.247Z error: try again after waiting
+2024-08-13T03:28:09.451Z info: Finish parser
+2024-08-13T03:29:03.089Z info: Start parser
+2024-08-13T03:29:04.183Z info: Finish parser
+2024-08-13T03:30:03.045Z info: Start parser
+2024-08-13T03:30:04.806Z info: Finish parser
+2024-08-13T03:31:02.635Z info: Start parser
+2024-08-13T03:31:03.759Z info: Finish parser
+2024-08-13T03:32:03.113Z info: Start parser
+2024-08-13T03:32:04.295Z info: Finish parser
+2024-08-13T03:33:02.831Z info: Start parser
+2024-08-13T03:33:04.646Z info: Finish parser
+2024-08-13T03:34:03.265Z info: Start parser
+2024-08-13T03:34:04.653Z info: Finish parser
+2024-08-13T03:35:02.692Z info: Start parser
+2024-08-13T03:35:02.873Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T03:35:07.879Z error: try again after waiting
+2024-08-13T03:35:08.909Z info: Finish parser
+2024-08-13T03:36:03.281Z info: Start parser
+2024-08-13T03:36:04.344Z info: Finish parser
+2024-08-13T03:37:02.650Z info: Start parser
+2024-08-13T03:37:03.754Z info: Finish parser
+2024-08-13T03:38:03.003Z info: Start parser
+2024-08-13T03:38:03.187Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T03:38:08.193Z error: try again after waiting
+2024-08-13T03:38:09.423Z info: Finish parser
+2024-08-13T03:39:02.588Z info: Start parser
+2024-08-13T03:39:02.765Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T03:39:07.772Z error: try again after waiting
+2024-08-13T03:39:08.858Z info: Finish parser
+2024-08-13T03:40:03.820Z info: Start parser
+2024-08-13T03:40:05.234Z info: Finish parser
+2024-08-13T03:41:03.227Z info: Start parser
+2024-08-13T03:41:04.280Z info: Finish parser
+2024-08-13T03:42:02.564Z info: Start parser
+2024-08-13T03:42:03.616Z info: Finish parser
+2024-08-13T03:43:02.898Z info: Start parser
+2024-08-13T03:43:03.078Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T03:43:08.084Z error: try again after waiting
+2024-08-13T03:43:09.094Z info: Finish parser
+2024-08-13T03:44:02.376Z info: Start parser
+2024-08-13T03:44:03.436Z info: Finish parser
+2024-08-13T03:45:03.043Z info: Start parser
+2024-08-13T03:45:04.152Z info: Finish parser
+2024-08-13T03:46:02.591Z info: Start parser
+2024-08-13T03:46:12.929Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T03:46:17.930Z error: try again after waiting
+2024-08-13T03:46:28.221Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T03:46:33.223Z error: try again after waiting
+2024-08-13T03:46:34.746Z info: Finish parser
+2024-08-13T03:47:02.529Z info: Start parser
+2024-08-13T03:47:02.706Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T03:47:07.712Z error: try again after waiting
+2024-08-13T03:47:08.776Z info: Finish parser
+2024-08-13T03:48:03.152Z info: Start parser
+2024-08-13T03:48:04.274Z info: Finish parser
+2024-08-13T03:49:02.608Z info: Start parser
+2024-08-13T03:49:03.749Z info: Finish parser
+2024-08-13T03:50:03.786Z info: Start parser
+2024-08-13T03:50:05.214Z info: Finish parser
+2024-08-13T03:51:03.182Z info: Start parser
+2024-08-13T03:51:04.271Z info: Finish parser
+2024-08-13T03:52:02.616Z info: Start parser
+2024-08-13T03:52:02.800Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T03:52:07.807Z error: try again after waiting
+2024-08-13T03:52:08.942Z info: Finish parser
+2024-08-13T03:53:03.122Z info: Start parser
+2024-08-13T03:53:05.200Z info: Finish parser
+2024-08-13T03:54:02.516Z info: Start parser
+2024-08-13T03:54:03.647Z info: Finish parser
+2024-08-13T03:55:02.982Z info: Start parser
+2024-08-13T03:55:04.104Z info: Finish parser
+2024-08-13T03:56:02.301Z info: Start parser
+2024-08-13T03:56:03.458Z info: Finish parser
+2024-08-13T03:57:02.855Z info: Start parser
+2024-08-13T03:57:03.937Z info: Finish parser
+2024-08-13T03:58:03.318Z info: Start parser
+2024-08-13T03:58:04.453Z info: Finish parser
+2024-08-13T03:59:02.796Z info: Start parser
+2024-08-13T03:59:02.982Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T03:59:07.986Z error: try again after waiting
+2024-08-13T03:59:09.052Z info: Finish parser
+2024-08-13T04:00:03.451Z info: Start parser
+2024-08-13T04:00:04.808Z info: Finish parser
+2024-08-13T04:01:02.983Z info: Start parser
+2024-08-13T04:01:04.149Z info: Finish parser
+2024-08-13T04:02:02.428Z info: Start parser
+2024-08-13T04:02:03.497Z info: Finish parser
+2024-08-13T04:03:02.869Z info: Start parser
+2024-08-13T04:03:03.929Z info: Finish parser
+2024-08-13T04:04:03.301Z info: Start parser
+2024-08-13T04:04:04.404Z info: Finish parser
+2024-08-13T04:05:02.715Z info: Start parser
+2024-08-13T04:05:03.870Z info: Finish parser
+2024-08-13T04:06:03.015Z info: Start parser
+2024-08-13T04:06:03.193Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T04:06:08.200Z error: try again after waiting
+2024-08-13T04:06:09.303Z info: Finish parser
+2024-08-13T04:07:02.483Z info: Start parser
+2024-08-13T04:07:03.551Z info: Finish parser
+2024-08-13T04:08:02.839Z info: Start parser
+2024-08-13T04:08:03.951Z info: Finish parser
+2024-08-13T04:09:03.154Z info: Start parser
+2024-08-13T04:09:04.230Z info: Finish parser
+2024-08-13T04:10:03.130Z info: Start parser
+2024-08-13T04:10:04.240Z info: Finish parser
+2024-08-13T04:11:02.451Z info: Start parser
+2024-08-13T04:11:04.089Z info: Finish parser
+2024-08-13T04:12:02.904Z info: Start parser
+2024-08-13T04:12:04.780Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T04:12:09.782Z error: try again after waiting
+2024-08-13T04:12:11.773Z info: Finish parser
+2024-08-13T04:13:03.053Z info: Start parser
+2024-08-13T04:13:04.271Z info: Finish parser
+2024-08-13T04:14:02.428Z info: Start parser
+2024-08-13T04:14:07.098Z info: Finish parser
+2024-08-13T04:15:02.828Z info: Start parser
+2024-08-13T04:15:03.912Z info: Finish parser
+2024-08-13T04:16:03.212Z info: Start parser
+2024-08-13T04:16:04.284Z info: Finish parser
+2024-08-13T04:17:02.644Z info: Start parser
+2024-08-13T04:17:03.760Z info: Finish parser
+2024-08-13T04:18:02.933Z info: Start parser
+2024-08-13T04:18:04.045Z info: Finish parser
+2024-08-13T04:19:02.354Z info: Start parser
+2024-08-13T04:19:04.708Z info: Finish parser
+2024-08-13T04:20:02.708Z info: Start parser
+2024-08-13T04:20:02.877Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T04:20:07.883Z error: try again after waiting
+2024-08-13T04:20:08.876Z info: Finish parser
+2024-08-13T04:21:03.869Z info: Start parser
+2024-08-13T04:21:05.475Z info: Finish parser
+2024-08-13T04:22:03.235Z info: Start parser
+2024-08-13T04:22:04.372Z info: Finish parser
+2024-08-13T04:23:02.645Z info: Start parser
+2024-08-13T04:23:03.788Z info: Finish parser
+2024-08-13T04:24:03.127Z info: Start parser
+2024-08-13T04:24:03.336Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T04:24:08.343Z error: try again after waiting
+2024-08-13T04:24:09.392Z info: Finish parser
+2024-08-13T04:25:02.710Z info: Start parser
+2024-08-13T04:25:03.934Z info: Finish parser
+2024-08-13T04:26:03.157Z info: Start parser
+2024-08-13T04:26:04.232Z info: Finish parser
+2024-08-13T04:27:02.618Z info: Start parser
+2024-08-13T04:27:03.754Z info: Finish parser
+2024-08-13T04:28:02.947Z info: Start parser
+2024-08-13T04:28:04.030Z info: Finish parser
+2024-08-13T04:29:02.237Z info: Start parser
+2024-08-13T04:29:02.418Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T04:29:07.424Z error: try again after waiting
+2024-08-13T04:29:08.450Z info: Finish parser
+2024-08-13T04:30:02.900Z info: Start parser
+2024-08-13T04:30:04.192Z info: Finish parser
+2024-08-13T04:31:03.538Z info: Start parser
+2024-08-13T04:31:04.763Z info: Finish parser
+2024-08-13T04:32:02.907Z info: Start parser
+2024-08-13T04:32:04.178Z info: Finish parser
+2024-08-13T04:33:03.317Z info: Start parser
+2024-08-13T04:33:04.419Z info: Finish parser
+2024-08-13T04:34:02.618Z info: Start parser
+2024-08-13T04:34:03.649Z info: Finish parser
+2024-08-13T04:35:02.936Z info: Start parser
+2024-08-13T04:35:04.026Z info: Finish parser
+2024-08-13T04:36:02.315Z info: Start parser
+2024-08-13T04:36:03.508Z info: Finish parser
+2024-08-13T04:37:02.765Z info: Start parser
+2024-08-13T04:37:03.817Z info: Finish parser
+2024-08-13T04:38:03.078Z info: Start parser
+2024-08-13T04:38:04.182Z info: Finish parser
+2024-08-13T04:39:02.404Z info: Start parser
+2024-08-13T04:39:03.511Z info: Finish parser
+2024-08-13T04:40:02.870Z info: Start parser
+2024-08-13T04:40:04.025Z info: Finish parser
+2024-08-13T04:41:03.206Z info: Start parser
+2024-08-13T04:41:04.295Z info: Finish parser
+2024-08-13T04:42:03.014Z info: Start parser
+2024-08-13T04:42:03.243Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T04:42:08.249Z error: try again after waiting
+2024-08-13T04:42:09.460Z info: Finish parser
+2024-08-13T04:43:02.751Z info: Start parser
+2024-08-13T04:43:03.947Z info: Finish parser
+2024-08-13T04:44:03.080Z info: Start parser
+2024-08-13T04:44:04.187Z info: Finish parser
+2024-08-13T04:45:02.681Z info: Start parser
+2024-08-13T04:45:03.954Z info: Finish parser
+2024-08-13T04:46:03.270Z info: Start parser
+2024-08-13T04:46:04.579Z info: Finish parser
+2024-08-13T04:47:02.685Z info: Start parser
+2024-08-13T04:47:03.761Z info: Finish parser
+2024-08-13T04:48:02.976Z info: Start parser
+2024-08-13T04:48:04.083Z info: Finish parser
+2024-08-13T04:49:02.389Z info: Start parser
+2024-08-13T04:49:03.575Z info: Finish parser
+2024-08-13T04:50:02.867Z info: Start parser
+2024-08-13T04:50:03.958Z info: Finish parser
+2024-08-13T04:51:03.185Z info: Start parser
+2024-08-13T04:51:12.494Z info: Finish parser
+2024-08-13T04:52:03.314Z info: Start parser
+2024-08-13T04:52:05.048Z info: Finish parser
+2024-08-13T04:53:02.661Z info: Start parser
+2024-08-13T04:53:03.752Z info: Finish parser
+2024-08-13T04:54:03.082Z info: Start parser
+2024-08-13T04:54:04.177Z info: Finish parser
+2024-08-13T04:55:02.485Z info: Start parser
+2024-08-13T04:55:03.724Z info: Finish parser
+2024-08-13T04:56:02.849Z info: Start parser
+2024-08-13T04:56:03.021Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T04:56:08.027Z error: try again after waiting
+2024-08-13T04:56:09.116Z info: Finish parser
+2024-08-13T04:57:02.420Z info: Start parser
+2024-08-13T04:57:03.543Z info: Finish parser
+2024-08-13T04:58:02.832Z info: Start parser
+2024-08-13T04:58:13.170Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T04:58:18.172Z error: try again after waiting
+2024-08-13T04:58:19.256Z info: Finish parser
+2024-08-13T04:59:02.446Z info: Start parser
+2024-08-13T04:59:03.505Z info: Finish parser
+2024-08-13T05:00:02.958Z info: Start parser
+2024-08-13T05:00:04.061Z info: Finish parser
+2024-08-13T05:01:02.526Z info: Start parser
+2024-08-13T05:01:03.736Z info: Finish parser
+2024-08-13T05:02:03.484Z info: Start parser
+2024-08-13T05:02:04.911Z info: Finish parser
+2024-08-13T05:03:02.993Z info: Start parser
+2024-08-13T05:03:04.052Z info: Finish parser
+2024-08-13T05:04:02.613Z info: Start parser
+2024-08-13T05:04:03.727Z info: Finish parser
+2024-08-13T05:05:03.178Z info: Start parser
+2024-08-13T05:05:04.286Z info: Finish parser
+2024-08-13T05:06:02.683Z info: Start parser
+2024-08-13T05:06:04.136Z info: Finish parser
+2024-08-13T05:07:02.997Z info: Start parser
+2024-08-13T05:07:04.095Z info: Finish parser
+2024-08-13T05:08:02.558Z info: Start parser
+2024-08-13T05:08:03.678Z info: Finish parser
+2024-08-13T05:09:03.368Z info: Start parser
+2024-08-13T05:09:04.718Z info: Finish parser
+2024-08-13T05:10:02.921Z info: Start parser
+2024-08-13T05:10:04.115Z info: Finish parser
+2024-08-13T05:11:03.211Z info: Start parser
+2024-08-13T05:11:04.274Z info: Finish parser
+2024-08-13T05:12:03.379Z info: Start parser
+2024-08-13T05:12:13.742Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T05:12:18.743Z error: try again after waiting
+2024-08-13T05:12:19.094Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T05:12:24.099Z error: try again after waiting
+2024-08-13T05:12:25.404Z info: Finish parser
+2024-08-13T05:13:02.474Z info: Start parser
+2024-08-13T05:13:03.554Z info: Finish parser
+2024-08-13T05:14:02.879Z info: Start parser
+2024-08-13T05:14:04.052Z info: Finish parser
+2024-08-13T05:15:03.306Z info: Start parser
+2024-08-13T05:15:04.534Z info: Finish parser
+2024-08-13T05:16:02.743Z info: Start parser
+2024-08-13T05:16:03.929Z info: Finish parser
+2024-08-13T05:17:03.246Z info: Start parser
+2024-08-13T05:17:04.350Z info: Finish parser
+2024-08-13T05:18:02.641Z info: Start parser
+2024-08-13T05:18:04.413Z info: Finish parser
+2024-08-13T05:19:02.998Z info: Start parser
+2024-08-13T05:19:03.181Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T05:19:08.188Z error: try again after waiting
+2024-08-13T05:19:09.311Z info: Finish parser
+2024-08-13T05:20:02.995Z info: Start parser
+2024-08-13T05:20:04.070Z info: Finish parser
+2024-08-13T05:21:02.575Z info: Start parser
+2024-08-13T05:21:04.087Z info: Finish parser
+2024-08-13T05:22:03.011Z info: Start parser
+2024-08-13T05:22:04.144Z info: Finish parser
+2024-08-13T05:23:02.615Z info: Start parser
+2024-08-13T05:23:04.001Z info: Finish parser
+2024-08-13T05:24:02.986Z info: Start parser
+2024-08-13T05:24:04.103Z info: Finish parser
+2024-08-13T05:25:02.494Z info: Start parser
+2024-08-13T05:25:03.621Z info: Finish parser
+2024-08-13T05:26:02.927Z info: Start parser
+2024-08-13T05:26:03.999Z info: Finish parser
+2024-08-13T05:27:02.526Z info: Start parser
+2024-08-13T05:27:03.642Z info: Finish parser
+2024-08-13T05:28:02.881Z info: Start parser
+2024-08-13T05:28:04.191Z info: Finish parser
+2024-08-13T05:29:03.483Z info: Start parser
+2024-08-13T05:29:04.673Z info: Finish parser
+2024-08-13T05:30:03.459Z info: Start parser
+2024-08-13T05:30:13.826Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T05:30:18.827Z error: try again after waiting
+2024-08-13T05:30:21.002Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T05:30:26.007Z error: try again after waiting
+2024-08-13T05:30:27.331Z info: Finish parser
+2024-08-13T05:31:02.469Z info: Start parser
+2024-08-13T05:31:04.359Z info: Finish parser
+2024-08-13T05:32:02.783Z info: Start parser
+2024-08-13T05:32:03.174Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T05:32:08.181Z error: try again after waiting
+2024-08-13T05:32:09.212Z info: Finish parser
+2024-08-13T05:33:03.050Z info: Start parser
+2024-08-13T05:33:04.480Z info: Finish parser
+2024-08-13T05:34:02.451Z info: Start parser
+2024-08-13T05:34:03.845Z info: Finish parser
+2024-08-13T05:35:02.980Z info: Start parser
+2024-08-13T05:35:03.173Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T05:35:08.181Z error: try again after waiting
+2024-08-13T05:35:08.302Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T05:35:13.304Z error: try again after waiting
+2024-08-13T05:35:14.805Z info: Finish parser
+2024-08-13T05:36:02.691Z info: Start parser
+2024-08-13T05:36:13.032Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T05:36:18.033Z error: try again after waiting
+2024-08-13T05:36:19.529Z info: Finish parser
+2024-08-13T05:37:02.327Z info: Start parser
+2024-08-13T05:37:03.659Z info: Finish parser
+2024-08-13T05:38:02.726Z info: Start parser
+2024-08-13T05:38:03.954Z info: Finish parser
+2024-08-13T05:39:03.059Z info: Start parser
+2024-08-13T05:39:04.209Z info: Finish parser
+2024-08-13T05:40:02.539Z info: Start parser
+2024-08-13T05:40:03.912Z info: Finish parser
+2024-08-13T05:41:02.995Z info: Start parser
+2024-08-13T05:41:04.136Z info: Finish parser
+2024-08-13T05:42:02.452Z info: Start parser
+2024-08-13T05:42:03.566Z info: Finish parser
+2024-08-13T05:43:03.386Z info: Start parser
+2024-08-13T05:43:03.593Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T05:43:08.599Z error: try again after waiting
+2024-08-13T05:43:09.627Z info: Finish parser
+2024-08-13T05:44:03.074Z info: Start parser
+2024-08-13T05:44:04.214Z info: Finish parser
+2024-08-13T05:45:02.537Z info: Start parser
+2024-08-13T05:45:03.694Z info: Finish parser
+2024-08-13T05:46:02.870Z info: Start parser
+2024-08-13T05:46:17.935Z error: Could not load news: Request timeout
+2024-08-13T05:47:03.207Z info: Start parser
+2024-08-13T05:47:03.384Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T05:47:08.390Z error: try again after waiting
+2024-08-13T05:47:09.841Z info: Finish parser
+2024-08-13T05:48:02.800Z info: Start parser
+2024-08-13T05:48:17.863Z error: Could not load news: Request timeout
+2024-08-13T05:49:03.161Z info: Start parser
+2024-08-13T05:49:18.230Z error: Could not load news: Request timeout
+2024-08-13T05:50:02.712Z info: Start parser
+2024-08-13T05:50:03.880Z info: Finish parser
+2024-08-13T05:51:03.028Z info: Start parser
+2024-08-13T05:51:04.109Z info: Finish parser
+2024-08-13T05:52:02.400Z info: Start parser
+2024-08-13T05:52:03.479Z info: Finish parser
+2024-08-13T05:53:03.342Z info: Start parser
+2024-08-13T05:53:04.461Z info: Finish parser
+2024-08-13T05:54:02.992Z info: Start parser
+2024-08-13T05:54:04.668Z info: Finish parser
+2024-08-13T05:55:02.609Z info: Start parser
+2024-08-13T05:55:03.846Z info: Finish parser
+2024-08-13T05:56:03.042Z info: Start parser
+2024-08-13T05:56:04.194Z info: Finish parser
+2024-08-13T05:57:02.669Z info: Start parser
+2024-08-13T05:57:03.741Z info: Finish parser
+2024-08-13T05:58:03.492Z info: Start parser
+2024-08-13T05:58:04.944Z info: Finish parser
+2024-08-13T05:59:02.854Z info: Start parser
+2024-08-13T05:59:03.999Z info: Finish parser
+2024-08-13T06:00:03.417Z info: Start parser
+2024-08-13T06:00:04.561Z info: Finish parser
+2024-08-13T06:01:03.215Z info: Start parser
+2024-08-13T06:01:04.396Z info: Finish parser
+2024-08-13T06:02:02.735Z info: Start parser
+2024-08-13T06:02:03.825Z info: Finish parser
+2024-08-13T06:03:03.202Z info: Start parser
+2024-08-13T06:03:04.271Z info: Finish parser
+2024-08-13T06:04:02.714Z info: Start parser
+2024-08-13T06:04:04.143Z info: Finish parser
+2024-08-13T06:05:03.179Z info: Start parser
+2024-08-13T06:05:04.473Z info: Finish parser
+2024-08-13T06:06:02.583Z info: Start parser
+2024-08-13T06:06:03.693Z info: Finish parser
+2024-08-13T06:07:03.109Z info: Start parser
+2024-08-13T06:07:04.242Z info: Finish parser
+2024-08-13T06:08:02.776Z info: Start parser
+2024-08-13T06:08:04.047Z info: Finish parser
+2024-08-13T06:09:03.469Z info: Start parser
+2024-08-13T06:09:03.657Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T06:09:08.663Z error: try again after waiting
+2024-08-13T06:09:11.159Z info: Finish parser
+2024-08-13T06:10:03.360Z info: Start parser
+2024-08-13T06:10:03.567Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T06:10:08.574Z error: try again after waiting
+2024-08-13T06:10:09.865Z info: Finish parser
+2024-08-13T06:11:03.043Z info: Start parser
+2024-08-13T06:11:04.293Z info: Finish parser
+2024-08-13T06:12:02.793Z info: Start parser
+2024-08-13T06:12:03.862Z info: Finish parser
+2024-08-13T06:13:03.803Z info: Start parser
+2024-08-13T06:13:04.993Z info: Finish parser
+2024-08-13T06:14:03.286Z info: Start parser
+2024-08-13T06:14:04.979Z info: Finish parser
+2024-08-13T06:15:02.693Z info: Start parser
+2024-08-13T06:15:02.876Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T06:15:07.882Z error: try again after waiting
+2024-08-13T06:15:07.996Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T06:15:12.999Z error: try again after waiting
+2024-08-13T06:15:14.424Z info: Finish parser
+2024-08-13T06:16:02.468Z info: Start parser
+2024-08-13T06:16:03.539Z info: Finish parser
+2024-08-13T06:17:03.170Z info: Start parser
+2024-08-13T06:17:03.589Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T06:17:08.595Z error: try again after waiting
+2024-08-13T06:17:18.874Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T06:17:23.875Z error: try again after waiting
+2024-08-13T06:17:25.249Z info: Finish parser
+2024-08-13T06:18:03.291Z info: Start parser
+2024-08-13T06:18:04.429Z info: Finish parser
+2024-08-13T06:19:03.152Z info: Start parser
+2024-08-13T06:19:04.386Z info: Finish parser
+2024-08-13T06:20:02.935Z info: Start parser
+2024-08-13T06:20:04.427Z info: Finish parser
+2024-08-13T06:21:02.414Z info: Start parser
+2024-08-13T06:21:03.571Z info: Finish parser
+2024-08-13T06:22:03.038Z info: Start parser
+2024-08-13T06:22:04.166Z info: Finish parser
+2024-08-13T06:23:03.212Z info: Start parser
+2024-08-13T06:23:04.663Z info: Finish parser
+2024-08-13T06:24:02.808Z info: Start parser
+2024-08-13T06:24:03.913Z info: Finish parser
+2024-08-13T06:25:03.533Z info: Start parser
+2024-08-13T06:25:04.640Z info: Finish parser
+2024-08-13T06:26:02.894Z info: Start parser
+2024-08-13T06:26:03.948Z info: Finish parser
+2024-08-13T06:27:03.270Z info: Start parser
+2024-08-13T06:27:04.415Z info: Finish parser
+2024-08-13T06:28:02.881Z info: Start parser
+2024-08-13T06:28:04.051Z info: Finish parser
+2024-08-13T06:29:03.375Z info: Start parser
+2024-08-13T06:29:04.514Z info: Finish parser
+2024-08-13T06:30:03.128Z info: Start parser
+2024-08-13T06:30:04.280Z info: Finish parser
+2024-08-13T06:31:02.727Z info: Start parser
+2024-08-13T06:31:03.793Z info: Finish parser
+2024-08-13T06:32:03.188Z info: Start parser
+2024-08-13T06:32:04.327Z info: Finish parser
+2024-08-13T06:33:03.120Z info: Start parser
+2024-08-13T06:33:03.318Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T06:33:08.324Z error: try again after waiting
+2024-08-13T06:33:09.333Z info: Finish parser
+2024-08-13T06:34:02.680Z info: Start parser
+2024-08-13T06:34:03.775Z info: Finish parser
+2024-08-13T06:35:03.189Z info: Start parser
+2024-08-13T06:35:04.269Z info: Finish parser
+2024-08-13T06:36:02.551Z info: Start parser
+2024-08-13T06:36:03.825Z info: Finish parser
+2024-08-13T06:37:02.882Z info: Start parser
+2024-08-13T06:37:04.032Z info: Finish parser
+2024-08-13T06:38:03.425Z info: Start parser
+2024-08-13T06:38:04.703Z info: Finish parser
+2024-08-13T06:39:03.543Z info: Start parser
+2024-08-13T06:39:03.750Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T06:39:08.756Z error: try again after waiting
+2024-08-13T06:39:09.926Z info: Finish parser
+2024-08-13T06:40:03.619Z info: Start parser
+2024-08-13T06:40:05.768Z info: Finish parser
+2024-08-13T06:41:02.990Z info: Start parser
+2024-08-13T06:41:04.106Z info: Finish parser
+2024-08-13T06:42:02.844Z info: Start parser
+2024-08-13T06:42:03.988Z info: Finish parser
+2024-08-13T06:43:03.421Z info: Start parser
+2024-08-13T06:43:04.857Z info: Finish parser
+2024-08-13T06:44:02.863Z info: Start parser
+2024-08-13T06:44:03.958Z info: Finish parser
+2024-08-13T06:45:03.310Z info: Start parser
+2024-08-13T06:45:04.480Z info: Finish parser
+2024-08-13T06:46:02.745Z info: Start parser
+2024-08-13T06:46:04.046Z info: Finish parser
+2024-08-13T06:47:03.235Z info: Start parser
+2024-08-13T06:47:04.415Z info: Finish parser
+2024-08-13T06:48:02.739Z info: Start parser
+2024-08-13T06:48:03.896Z info: Finish parser
+2024-08-13T06:49:03.172Z info: Start parser
+2024-08-13T06:49:04.335Z info: Finish parser
+2024-08-13T06:50:02.652Z info: Start parser
+2024-08-13T06:50:03.735Z info: Finish parser
+2024-08-13T06:51:03.084Z info: Start parser
+2024-08-13T06:51:04.268Z info: Finish parser
+2024-08-13T06:52:03.198Z info: Start parser
+2024-08-13T06:52:04.411Z info: Finish parser
+2024-08-13T06:53:02.507Z info: Start parser
+2024-08-13T06:53:03.572Z info: Finish parser
+2024-08-13T06:54:03.075Z info: Start parser
+2024-08-13T06:54:03.248Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T06:54:08.255Z error: try again after waiting
+2024-08-13T06:54:10.151Z info: Finish parser
+2024-08-13T06:55:02.680Z info: Start parser
+2024-08-13T06:55:04.005Z info: Finish parser
+2024-08-13T06:56:03.059Z info: Start parser
+2024-08-13T06:56:03.242Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T06:56:08.249Z error: try again after waiting
+2024-08-13T06:56:09.580Z info: Sent message: 13.08.2024 09:54: Приветствие Министра иностранных дел Российской Федерации С.В.Лаврова организаторам и участникам II Международного буддийского форума http://mid.ru/ru/foreign_policy/news/1965373/
+2024-08-13T06:56:09.580Z info: Finish parser
+2024-08-13T06:57:02.532Z info: Start parser
+2024-08-13T06:57:03.630Z info: Finish parser
+2024-08-13T06:58:03.057Z info: Start parser
+2024-08-13T06:58:04.119Z info: Finish parser
+2024-08-13T06:59:02.694Z info: Start parser
+2024-08-13T06:59:02.871Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T06:59:07.878Z error: try again after waiting
+2024-08-13T06:59:09.026Z info: Finish parser
+2024-08-13T07:00:03.678Z info: Start parser
+2024-08-13T07:00:05.264Z info: Finish parser
+2024-08-13T07:01:03.191Z info: Start parser
+2024-08-13T07:01:04.446Z info: Finish parser
+2024-08-13T07:02:03.312Z info: Start parser
+2024-08-13T07:02:04.911Z info: Finish parser
+2024-08-13T07:03:02.792Z info: Start parser
+2024-08-13T07:03:04.505Z info: Finish parser
+2024-08-13T07:04:03.281Z info: Start parser
+2024-08-13T07:04:04.487Z info: Finish parser
+2024-08-13T07:05:02.910Z info: Start parser
+2024-08-13T07:05:04.191Z info: Finish parser
+2024-08-13T07:06:03.477Z info: Start parser
+2024-08-13T07:06:04.878Z info: Finish parser
+2024-08-13T07:07:02.855Z info: Start parser
+2024-08-13T07:07:03.029Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T07:07:08.037Z error: try again after waiting
+2024-08-13T07:07:09.092Z info: Finish parser
+2024-08-13T07:08:02.390Z info: Start parser
+2024-08-13T07:08:03.596Z info: Finish parser
+2024-08-13T07:09:02.968Z info: Start parser
+2024-08-13T07:09:03.399Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T07:09:08.406Z error: try again after waiting
+2024-08-13T07:09:09.604Z info: Finish parser
+2024-08-13T07:10:02.919Z info: Start parser
+2024-08-13T07:10:04.072Z info: Finish parser
+2024-08-13T07:11:04.009Z info: Start parser
+2024-08-13T07:11:04.215Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T07:11:09.222Z error: try again after waiting
+2024-08-13T07:11:10.324Z info: Finish parser
+2024-08-13T07:12:02.563Z info: Start parser
+2024-08-13T07:12:03.905Z info: Finish parser
+2024-08-13T07:13:02.930Z info: Start parser
+2024-08-13T07:13:04.058Z info: Finish parser
+2024-08-13T07:14:02.510Z info: Start parser
+2024-08-13T07:14:03.693Z info: Finish parser
+2024-08-13T07:15:03.324Z info: Start parser
+2024-08-13T07:15:03.540Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T07:15:08.547Z error: try again after waiting
+2024-08-13T07:15:09.776Z info: Finish parser
+2024-08-13T07:16:02.958Z info: Start parser
+2024-08-13T07:16:04.106Z info: Finish parser
+2024-08-13T07:17:02.505Z info: Start parser
+2024-08-13T07:17:03.695Z info: Finish parser
+2024-08-13T07:18:02.821Z info: Start parser
+2024-08-13T07:18:04.122Z info: Finish parser
+2024-08-13T07:19:03.190Z info: Start parser
+2024-08-13T07:19:04.324Z info: Finish parser
+2024-08-13T07:20:03.347Z info: Start parser
+2024-08-13T07:20:04.907Z info: Finish parser
+2024-08-13T07:21:02.843Z info: Start parser
+2024-08-13T07:21:04.177Z info: Finish parser
+2024-08-13T07:22:03.243Z info: Start parser
+2024-08-13T07:22:04.431Z info: Finish parser
+2024-08-13T07:23:02.641Z info: Start parser
+2024-08-13T07:23:03.959Z info: Finish parser
+2024-08-13T07:24:03.058Z info: Start parser
+2024-08-13T07:24:04.350Z info: Finish parser
+2024-08-13T07:25:02.968Z info: Start parser
+2024-08-13T07:25:04.200Z info: Finish parser
+2024-08-13T07:26:02.458Z info: Start parser
+2024-08-13T07:26:03.954Z info: Finish parser
+2024-08-13T07:27:02.835Z info: Start parser
+2024-08-13T07:27:03.931Z info: Finish parser
+2024-08-13T07:28:03.188Z info: Start parser
+2024-08-13T07:28:04.288Z info: Finish parser
+2024-08-13T07:29:02.882Z info: Start parser
+2024-08-13T07:29:04.029Z info: Finish parser
+2024-08-13T07:30:03.852Z info: Start parser
+2024-08-13T07:30:05.371Z info: Finish parser
+2024-08-13T07:31:03.180Z info: Start parser
+2024-08-13T07:31:04.305Z info: Finish parser
+2024-08-13T07:32:02.767Z info: Start parser
+2024-08-13T07:32:03.888Z info: Finish parser
+2024-08-13T07:33:03.069Z info: Start parser
+2024-08-13T07:33:04.202Z info: Finish parser
+2024-08-13T07:34:02.522Z info: Start parser
+2024-08-13T07:34:03.699Z info: Finish parser
+2024-08-13T07:35:03.404Z info: Start parser
+2024-08-13T07:35:04.501Z info: Finish parser
+2024-08-13T07:36:02.894Z info: Start parser
+2024-08-13T07:36:04.039Z info: Finish parser
+2024-08-13T07:37:03.293Z info: Start parser
+2024-08-13T07:37:03.485Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T07:37:08.492Z error: try again after waiting
+2024-08-13T07:37:09.519Z info: Finish parser
+2024-08-13T07:38:03.033Z info: Start parser
+2024-08-13T07:38:04.214Z info: Finish parser
+2024-08-13T07:39:03.150Z info: Start parser
+2024-08-13T07:39:04.553Z info: Finish parser
+2024-08-13T07:40:02.648Z info: Start parser
+2024-08-13T07:40:04.040Z info: Finish parser
+2024-08-13T07:41:02.982Z info: Start parser
+2024-08-13T07:41:03.192Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T07:41:08.194Z error: try again after waiting
+2024-08-13T07:41:09.250Z info: Finish parser
+2024-08-13T07:42:02.695Z info: Start parser
+2024-08-13T07:42:03.765Z info: Finish parser
+2024-08-13T07:43:03.150Z info: Start parser
+2024-08-13T07:43:04.697Z info: Finish parser
+2024-08-13T07:44:02.657Z info: Start parser
+2024-08-13T07:44:04.512Z info: Finish parser
+2024-08-13T07:45:03.267Z info: Start parser
+2024-08-13T07:45:04.484Z info: Finish parser
+2024-08-13T07:46:02.706Z info: Start parser
+2024-08-13T07:46:03.816Z info: Finish parser
+2024-08-13T07:47:03.110Z info: Start parser
+2024-08-13T07:47:04.212Z info: Finish parser
+2024-08-13T07:48:02.822Z info: Start parser
+2024-08-13T07:48:03.960Z info: Finish parser
+2024-08-13T07:49:03.736Z info: Start parser
+2024-08-13T07:49:05.188Z info: Finish parser
+2024-08-13T07:50:03.151Z info: Start parser
+2024-08-13T07:50:03.334Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T07:50:08.341Z error: try again after waiting
+2024-08-13T07:50:09.909Z info: Finish parser
+2024-08-13T07:51:02.723Z info: Start parser
+2024-08-13T07:51:04.263Z info: Finish parser
+2024-08-13T07:52:03.180Z info: Start parser
+2024-08-13T07:52:03.364Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T07:52:08.371Z error: try again after waiting
+2024-08-13T07:52:10.679Z info: Finish parser
+2024-08-13T07:53:02.691Z info: Start parser
+2024-08-13T07:53:03.102Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T07:53:08.106Z error: try again after waiting
+2024-08-13T07:53:09.115Z info: Finish parser
+2024-08-13T07:54:02.479Z info: Start parser
+2024-08-13T07:54:12.819Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T07:54:17.820Z error: try again after waiting
+2024-08-13T07:54:18.912Z info: Finish parser
+2024-08-13T07:55:03.362Z info: Start parser
+2024-08-13T07:55:04.586Z info: Finish parser
+2024-08-13T07:56:02.859Z info: Start parser
+2024-08-13T07:56:04.059Z info: Finish parser
+2024-08-13T07:57:03.271Z info: Start parser
+2024-08-13T07:57:04.466Z info: Finish parser
+2024-08-13T07:58:03.441Z info: Start parser
+2024-08-13T07:58:04.632Z info: Finish parser
+2024-08-13T07:59:03.054Z info: Start parser
+2024-08-13T07:59:04.501Z info: Finish parser
+2024-08-13T08:00:02.762Z info: Start parser
+2024-08-13T08:00:02.982Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T08:00:07.989Z error: try again after waiting
+2024-08-13T08:00:09.483Z info: Finish parser
+2024-08-13T08:01:02.490Z info: Start parser
+2024-08-13T08:01:03.867Z info: Finish parser
+2024-08-13T08:02:02.969Z info: Start parser
+2024-08-13T08:02:04.162Z info: Finish parser
+2024-08-13T08:03:02.603Z info: Start parser
+2024-08-13T08:03:03.768Z info: Finish parser
+2024-08-13T08:04:03.275Z info: Start parser
+2024-08-13T08:04:04.416Z info: Finish parser
+2024-08-13T08:05:02.879Z info: Start parser
+2024-08-13T08:05:04.076Z info: Finish parser
+2024-08-13T08:06:03.204Z info: Start parser
+2024-08-13T08:06:04.591Z info: Finish parser
+2024-08-13T08:07:03.044Z info: Start parser
+2024-08-13T08:07:03.218Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T08:07:08.224Z error: try again after waiting
+2024-08-13T08:07:09.251Z info: Finish parser
+2024-08-13T08:08:02.756Z info: Start parser
+2024-08-13T08:08:05.487Z info: Finish parser
+2024-08-13T08:09:03.275Z info: Start parser
+2024-08-13T08:09:03.462Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T08:09:08.469Z error: try again after waiting
+2024-08-13T08:09:09.568Z info: Finish parser
+2024-08-13T08:10:02.843Z info: Start parser
+2024-08-13T08:10:03.907Z info: Finish parser
+2024-08-13T08:11:03.314Z info: Start parser
+2024-08-13T08:11:03.492Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T08:11:08.494Z error: try again after waiting
+2024-08-13T08:11:09.561Z info: Finish parser
+2024-08-13T08:12:02.880Z info: Start parser
+2024-08-13T08:12:04.128Z info: Finish parser
+2024-08-13T08:13:03.275Z info: Start parser
+2024-08-13T08:13:04.427Z info: Finish parser
+2024-08-13T08:14:02.802Z info: Start parser
+2024-08-13T08:14:04.091Z info: Finish parser
+2024-08-13T08:15:03.423Z info: Start parser
+2024-08-13T08:15:04.589Z info: Finish parser
+2024-08-13T08:16:02.856Z info: Start parser
+2024-08-13T08:16:04.009Z info: Finish parser
+2024-08-13T08:17:03.810Z info: Start parser
+2024-08-13T08:17:05.264Z info: Finish parser
+2024-08-13T08:18:03.257Z info: Start parser
+2024-08-13T08:18:03.437Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T08:18:08.443Z error: try again after waiting
+2024-08-13T08:18:10.110Z info: Finish parser
+2024-08-13T08:19:02.715Z info: Start parser
+2024-08-13T08:19:03.791Z info: Finish parser
+2024-08-13T08:20:03.245Z info: Start parser
+2024-08-13T08:20:04.420Z info: Finish parser
+2024-08-13T08:21:02.679Z info: Start parser
+2024-08-13T08:21:04.147Z info: Finish parser
+2024-08-13T08:22:03.295Z info: Start parser
+2024-08-13T08:22:04.621Z info: Finish parser
+2024-08-13T08:23:02.653Z info: Start parser
+2024-08-13T08:23:03.760Z info: Finish parser
+2024-08-13T08:24:03.394Z info: Start parser
+2024-08-13T08:24:04.584Z info: Finish parser
+2024-08-13T08:25:02.933Z info: Start parser
+2024-08-13T08:25:04.046Z info: Finish parser
+2024-08-13T08:26:03.183Z info: Start parser
+2024-08-13T08:26:04.875Z info: Finish parser
+2024-08-13T08:27:02.696Z info: Start parser
+2024-08-13T08:27:03.910Z info: Finish parser
+2024-08-13T08:28:03.016Z info: Start parser
+2024-08-13T08:28:04.460Z info: Finish parser
+2024-08-13T08:29:02.534Z info: Start parser
+2024-08-13T08:29:03.736Z info: Finish parser
+2024-08-13T08:30:03.402Z info: Start parser
+2024-08-13T08:30:04.669Z info: Finish parser
+2024-08-13T08:31:02.783Z info: Start parser
+2024-08-13T08:31:03.861Z info: Finish parser
+2024-08-13T08:32:03.371Z info: Start parser
+2024-08-13T08:32:04.559Z info: Finish parser
+2024-08-13T08:33:02.859Z info: Start parser
+2024-08-13T08:33:04.080Z info: Finish parser
+2024-08-13T08:34:03.324Z info: Start parser
+2024-08-13T08:34:04.436Z info: Finish parser
+2024-08-13T08:35:03.100Z info: Start parser
+2024-08-13T08:35:04.261Z info: Finish parser
+2024-08-13T08:36:02.582Z info: Start parser
+2024-08-13T08:36:04.162Z info: Finish parser
+2024-08-13T08:37:03.068Z info: Start parser
+2024-08-13T08:37:04.191Z info: Finish parser
+2024-08-13T08:38:02.588Z info: Start parser
+2024-08-13T08:38:03.711Z info: Finish parser
+2024-08-13T08:39:03.039Z info: Start parser
+2024-08-13T08:39:04.115Z info: Finish parser
+2024-08-13T08:40:02.835Z info: Start parser
+2024-08-13T08:40:04.070Z info: Finish parser
+2024-08-13T08:41:03.295Z info: Start parser
+2024-08-13T08:41:04.593Z info: Finish parser
+2024-08-13T08:42:02.670Z info: Start parser
+2024-08-13T08:42:03.942Z info: Finish parser
+2024-08-13T08:43:03.074Z info: Start parser
+2024-08-13T08:43:04.134Z info: Finish parser
+2024-08-13T08:44:02.419Z info: Start parser
+2024-08-13T08:44:03.799Z info: Finish parser
+2024-08-13T08:45:03.528Z info: Start parser
+2024-08-13T08:45:05.033Z info: Finish parser
+2024-08-13T08:46:03.080Z info: Start parser
+2024-08-13T08:46:04.176Z info: Finish parser
+2024-08-13T08:47:02.607Z info: Start parser
+2024-08-13T08:47:03.782Z info: Finish parser
+2024-08-13T08:48:03.010Z info: Start parser
+2024-08-13T08:48:04.077Z info: Finish parser
+2024-08-13T08:49:02.984Z info: Start parser
+2024-08-13T08:49:04.123Z info: Finish parser
+2024-08-13T08:50:02.934Z info: Start parser
+2024-08-13T08:50:03.116Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T08:50:08.122Z error: try again after waiting
+2024-08-13T08:50:09.349Z info: Finish parser
+2024-08-13T08:51:02.617Z info: Start parser
+2024-08-13T08:51:03.694Z info: Finish parser
+2024-08-13T08:52:03.154Z info: Start parser
+2024-08-13T08:52:04.267Z info: Finish parser
+2024-08-13T08:53:02.741Z info: Start parser
+2024-08-13T08:53:03.858Z info: Finish parser
+2024-08-13T08:54:03.170Z info: Start parser
+2024-08-13T08:54:04.388Z info: Finish parser
+2024-08-13T08:55:03.095Z info: Start parser
+2024-08-13T08:55:04.623Z info: Finish parser
+2024-08-13T08:56:02.665Z info: Start parser
+2024-08-13T08:56:03.845Z info: Finish parser
+2024-08-13T08:57:03.055Z info: Start parser
+2024-08-13T08:57:04.185Z info: Finish parser
+2024-08-13T08:58:02.459Z info: Start parser
+2024-08-13T08:58:03.647Z info: Finish parser
+2024-08-13T08:59:03.035Z info: Start parser
+2024-08-13T08:59:03.227Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T08:59:08.234Z error: try again after waiting
+2024-08-13T08:59:09.284Z info: Finish parser
+2024-08-13T09:00:02.966Z info: Start parser
+2024-08-13T09:00:04.103Z info: Finish parser
+2024-08-13T09:01:02.418Z info: Start parser
+2024-08-13T09:01:03.656Z info: Finish parser
+2024-08-13T09:02:03.407Z info: Start parser
+2024-08-13T09:02:04.568Z info: Finish parser
+2024-08-13T09:03:02.945Z info: Start parser
+2024-08-13T09:03:04.017Z info: Finish parser
+2024-08-13T09:04:03.071Z info: Start parser
+2024-08-13T09:04:04.917Z info: Finish parser
+2024-08-13T09:05:02.638Z info: Start parser
+2024-08-13T09:05:03.742Z info: Finish parser
+2024-08-13T09:06:03.009Z info: Start parser
+2024-08-13T09:06:04.558Z info: Finish parser
+2024-08-13T09:07:02.571Z info: Start parser
+2024-08-13T09:07:02.770Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T09:07:07.777Z error: try again after waiting
+2024-08-13T09:07:08.781Z info: Finish parser
+2024-08-13T09:08:03.178Z info: Start parser
+2024-08-13T09:08:03.352Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T09:08:08.355Z error: try again after waiting
+2024-08-13T09:08:09.369Z info: Finish parser
+2024-08-13T09:09:03.219Z info: Start parser
+2024-08-13T09:09:04.388Z info: Finish parser
+2024-08-13T09:10:02.942Z info: Start parser
+2024-08-13T09:10:04.116Z info: Finish parser
+2024-08-13T09:11:02.313Z info: Start parser
+2024-08-13T09:11:03.581Z info: Finish parser
+2024-08-13T09:12:02.755Z info: Start parser
+2024-08-13T09:12:03.979Z info: Finish parser
+2024-08-13T09:13:03.249Z info: Start parser
+2024-08-13T09:13:04.369Z info: Finish parser
+2024-08-13T09:14:02.682Z info: Start parser
+2024-08-13T09:14:04.210Z info: Finish parser
+2024-08-13T09:15:03.299Z info: Start parser
+2024-08-13T09:15:03.486Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T09:15:08.489Z error: try again after waiting
+2024-08-13T09:15:09.775Z info: Finish parser
+2024-08-13T09:16:02.947Z info: Start parser
+2024-08-13T09:16:04.213Z info: Finish parser
+2024-08-13T09:17:02.362Z info: Start parser
+2024-08-13T09:17:03.412Z info: Finish parser
+2024-08-13T09:18:02.796Z info: Start parser
+2024-08-13T09:18:03.883Z info: Finish parser
+2024-08-13T09:19:03.113Z info: Start parser
+2024-08-13T09:19:04.181Z info: Finish parser
+2024-08-13T09:20:02.591Z info: Start parser
+2024-08-13T09:20:03.717Z info: Finish parser
+2024-08-13T09:21:02.911Z info: Start parser
+2024-08-13T09:21:04.255Z info: Finish parser
+2024-08-13T09:22:03.294Z info: Start parser
+2024-08-13T09:22:04.422Z info: Finish parser
+2024-08-13T09:23:03.345Z info: Start parser
+2024-08-13T09:23:05.077Z info: Finish parser
+2024-08-13T09:24:03.148Z info: Start parser
+2024-08-13T09:24:04.280Z info: Finish parser
+2024-08-13T09:25:02.648Z info: Start parser
+2024-08-13T09:25:03.933Z info: Finish parser
+2024-08-13T09:26:03.036Z info: Start parser
+2024-08-13T09:26:04.181Z info: Finish parser
+2024-08-13T09:27:02.816Z info: Start parser
+2024-08-13T09:27:03.981Z info: Finish parser
+2024-08-13T09:28:03.347Z info: Start parser
+2024-08-13T09:28:05.519Z info: Finish parser
+2024-08-13T09:29:02.739Z info: Start parser
+2024-08-13T09:29:03.854Z info: Finish parser
+2024-08-13T09:30:03.359Z info: Start parser
+2024-08-13T09:30:04.530Z info: Finish parser
+2024-08-13T09:31:02.673Z info: Start parser
+2024-08-13T09:31:03.827Z info: Finish parser
+2024-08-13T09:32:03.408Z info: Start parser
+2024-08-13T09:32:04.484Z info: Finish parser
+2024-08-13T09:33:03.191Z info: Start parser
+2024-08-13T09:33:04.714Z info: Finish parser
+2024-08-13T09:34:02.667Z info: Start parser
+2024-08-13T09:34:03.740Z info: Finish parser
+2024-08-13T09:35:03.195Z info: Start parser
+2024-08-13T09:35:05.650Z info: Finish parser
+2024-08-13T09:36:02.761Z info: Start parser
+2024-08-13T09:36:03.818Z info: Finish parser
+2024-08-13T09:37:03.593Z info: Start parser
+2024-08-13T09:37:04.964Z info: Finish parser
+2024-08-13T09:38:03.027Z info: Start parser
+2024-08-13T09:38:04.149Z info: Finish parser
+2024-08-13T09:39:02.660Z info: Start parser
+2024-08-13T09:39:03.861Z info: Finish parser
+2024-08-13T09:40:03.241Z info: Start parser
+2024-08-13T09:40:03.413Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T09:40:08.419Z error: try again after waiting
+2024-08-13T09:40:08.538Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T09:40:13.540Z error: try again after waiting
+2024-08-13T09:40:13.666Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T09:40:18.668Z error: try again after waiting
+2024-08-13T09:40:18.669Z info: Finish parser
+2024-08-13T09:41:02.859Z info: Start parser
+2024-08-13T09:41:03.926Z info: Finish parser
+2024-08-13T09:42:03.991Z info: Start parser
+2024-08-13T09:42:05.455Z info: Finish parser
+2024-08-13T09:43:02.460Z info: Start parser
+2024-08-13T09:43:13.817Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T09:43:18.819Z error: try again after waiting
+2024-08-13T09:43:19.972Z info: Finish parser
+2024-08-13T09:44:03.102Z info: Start parser
+2024-08-13T09:44:04.212Z info: Finish parser
+2024-08-13T09:45:02.592Z info: Start parser
+2024-08-13T09:45:03.712Z info: Finish parser
+2024-08-13T09:46:03.025Z info: Start parser
+2024-08-13T09:46:04.163Z info: Finish parser
+2024-08-13T09:47:02.482Z info: Start parser
+2024-08-13T09:47:03.782Z info: Finish parser
+2024-08-13T09:48:03.088Z info: Start parser
+2024-08-13T09:48:04.439Z info: Finish parser
+2024-08-13T09:49:02.775Z info: Start parser
+2024-08-13T09:49:02.972Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T09:49:07.978Z error: try again after waiting
+2024-08-13T09:49:09.041Z info: Finish parser
+2024-08-13T09:50:04.005Z info: Start parser
+2024-08-13T09:50:05.194Z info: Finish parser
+2024-08-13T09:51:03.204Z info: Start parser
+2024-08-13T09:51:04.719Z info: Finish parser
+2024-08-13T09:52:02.764Z info: Start parser
+2024-08-13T09:52:02.949Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T09:52:07.956Z error: try again after waiting
+2024-08-13T09:52:09.301Z info: Finish parser
+2024-08-13T09:53:03.392Z info: Start parser
+2024-08-13T09:53:04.512Z info: Finish parser
+2024-08-13T09:54:02.797Z info: Start parser
+2024-08-13T09:54:03.885Z info: Finish parser
+2024-08-13T09:55:03.318Z info: Start parser
+2024-08-13T09:55:04.673Z info: Finish parser
+2024-08-13T09:56:03.027Z info: Start parser
+2024-08-13T09:56:04.848Z info: Finish parser
+2024-08-13T09:57:02.479Z info: Start parser
+2024-08-13T09:57:03.629Z info: Finish parser
+2024-08-13T09:58:02.847Z info: Start parser
+2024-08-13T09:58:04.026Z info: Finish parser
+2024-08-13T09:59:03.539Z info: Start parser
+2024-08-13T09:59:04.733Z info: Finish parser
+2024-08-13T10:00:03.578Z info: Start parser
+2024-08-13T10:00:03.771Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T10:00:08.778Z error: try again after waiting
+2024-08-13T10:00:09.803Z info: Finish parser
+2024-08-13T10:01:03.759Z info: Start parser
+2024-08-13T10:01:05.488Z info: Finish parser
+2024-08-13T10:02:03.121Z info: Start parser
+2024-08-13T10:02:04.176Z info: Finish parser
+2024-08-13T10:03:02.805Z info: Start parser
+2024-08-13T10:03:03.981Z info: Finish parser
+2024-08-13T10:04:03.238Z info: Start parser
+2024-08-13T10:04:04.567Z info: Finish parser
+2024-08-13T10:05:02.745Z info: Start parser
+2024-08-13T10:05:03.848Z info: Finish parser
+2024-08-13T10:06:03.062Z info: Start parser
+2024-08-13T10:06:13.394Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T10:06:18.395Z error: try again after waiting
+2024-08-13T10:06:18.526Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T10:06:23.531Z error: try again after waiting
+2024-08-13T10:06:24.600Z info: Finish parser
+2024-08-13T10:07:02.989Z info: Start parser
+2024-08-13T10:07:04.374Z info: Finish parser
+2024-08-13T10:08:02.887Z info: Start parser
+2024-08-13T10:08:04.379Z info: Finish parser
+2024-08-13T10:09:03.457Z info: Start parser
+2024-08-13T10:09:03.636Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T10:09:08.643Z error: try again after waiting
+2024-08-13T10:09:09.712Z info: Finish parser
+2024-08-13T10:10:03.688Z info: Start parser
+2024-08-13T10:10:05.435Z info: Finish parser
+2024-08-13T10:11:03.070Z info: Start parser
+2024-08-13T10:11:04.154Z info: Finish parser
+2024-08-13T10:12:02.642Z info: Start parser
+2024-08-13T10:12:03.858Z info: Finish parser
+2024-08-13T10:13:02.949Z info: Start parser
+2024-08-13T10:13:04.096Z info: Finish parser
+2024-08-13T10:14:02.458Z info: Start parser
+2024-08-13T10:14:02.641Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T10:14:07.647Z error: try again after waiting
+2024-08-13T10:14:09.133Z info: Finish parser
+2024-08-13T10:15:03.060Z info: Start parser
+2024-08-13T10:15:04.206Z info: Finish parser
+2024-08-13T10:16:02.451Z info: Start parser
+2024-08-13T10:16:02.651Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T10:16:07.658Z error: try again after waiting
+2024-08-13T10:16:09.010Z info: Finish parser
+2024-08-13T10:17:02.941Z info: Start parser
+2024-08-13T10:17:04.015Z info: Finish parser
+2024-08-13T10:18:02.476Z info: Start parser
+2024-08-13T10:18:04.023Z info: Finish parser
+2024-08-13T10:19:03.725Z info: Start parser
+2024-08-13T10:19:04.956Z info: Finish parser
+2024-08-13T10:20:03.189Z info: Start parser
+2024-08-13T10:20:04.414Z info: Finish parser
+2024-08-13T10:21:02.608Z info: Start parser
+2024-08-13T10:21:02.799Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T10:21:07.806Z error: try again after waiting
+2024-08-13T10:21:08.946Z info: Finish parser
+2024-08-13T10:22:03.156Z info: Start parser
+2024-08-13T10:22:04.647Z info: Finish parser
+2024-08-13T10:23:02.746Z info: Start parser
+2024-08-13T10:23:02.922Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T10:23:07.929Z error: try again after waiting
+2024-08-13T10:23:09.027Z info: Finish parser
+2024-08-13T10:24:03.356Z info: Start parser
+2024-08-13T10:24:04.571Z info: Finish parser
+2024-08-13T10:25:02.988Z info: Start parser
+2024-08-13T10:25:03.177Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T10:25:08.184Z error: try again after waiting
+2024-08-13T10:25:09.578Z info: Finish parser
+2024-08-13T10:26:02.578Z info: Start parser
+2024-08-13T10:26:03.745Z info: Finish parser
+2024-08-13T10:27:03.035Z info: Start parser
+2024-08-13T10:27:04.102Z info: Finish parser
+2024-08-13T10:28:02.920Z info: Start parser
+2024-08-13T10:28:03.129Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T10:28:08.137Z error: try again after waiting
+2024-08-13T10:28:08.267Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T10:28:13.270Z error: try again after waiting
+2024-08-13T10:28:14.332Z info: Finish parser
+2024-08-13T10:29:03.111Z info: Start parser
+2024-08-13T10:29:04.751Z info: Finish parser
+2024-08-13T10:30:02.982Z info: Start parser
+2024-08-13T10:30:04.294Z info: Finish parser
+2024-08-13T10:31:02.577Z info: Start parser
+2024-08-13T10:31:03.803Z info: Finish parser
+2024-08-13T10:32:03.365Z info: Start parser
+2024-08-13T10:32:04.509Z info: Finish parser
+2024-08-13T10:33:02.963Z info: Start parser
+2024-08-13T10:33:04.655Z info: Finish parser
+2024-08-13T10:34:02.607Z info: Start parser
+2024-08-13T10:34:03.767Z info: Finish parser
+2024-08-13T10:35:03.058Z info: Start parser
+2024-08-13T10:35:03.235Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T10:35:08.242Z error: try again after waiting
+2024-08-13T10:35:09.287Z info: Finish parser
+2024-08-13T10:36:02.515Z info: Start parser
+2024-08-13T10:36:03.964Z info: Finish parser
+2024-08-13T10:37:02.835Z info: Start parser
+2024-08-13T10:37:03.947Z info: Finish parser
+2024-08-13T10:38:03.758Z info: Start parser
+2024-08-13T10:38:05.261Z info: Finish parser
+2024-08-13T10:39:03.327Z info: Start parser
+2024-08-13T10:39:04.610Z info: Finish parser
+2024-08-13T10:40:02.991Z info: Start parser
+2024-08-13T10:40:04.131Z info: Finish parser
+2024-08-13T10:41:02.492Z info: Start parser
+2024-08-13T10:41:03.612Z info: Finish parser
+2024-08-13T10:42:03.302Z info: Start parser
+2024-08-13T10:42:04.806Z info: Finish parser
+2024-08-13T10:43:02.833Z info: Start parser
+2024-08-13T10:43:03.997Z info: Finish parser
+2024-08-13T10:44:03.167Z info: Start parser
+2024-08-13T10:44:04.688Z info: Sent message: 13.08.2024 13:42: О Международном дне Каспийского моря http://mid.ru/ru/foreign_policy/news/1965467/
+2024-08-13T10:44:04.689Z info: Finish parser
+2024-08-13T10:45:02.636Z info: Start parser
+2024-08-13T10:45:03.736Z info: Finish parser
+2024-08-13T10:46:02.951Z info: Start parser
+2024-08-13T10:46:03.169Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T10:46:08.176Z error: try again after waiting
+2024-08-13T10:46:09.195Z info: Finish parser
+2024-08-13T10:47:03.290Z info: Start parser
+2024-08-13T10:47:04.714Z info: Finish parser
+2024-08-13T10:48:02.892Z info: Start parser
+2024-08-13T10:48:04.077Z info: Finish parser
+2024-08-13T10:49:03.406Z info: Start parser
+2024-08-13T10:49:04.904Z info: Finish parser
+2024-08-13T10:50:02.837Z info: Start parser
+2024-08-13T10:50:04.239Z info: Finish parser
+2024-08-13T10:51:03.219Z info: Start parser
+2024-08-13T10:51:04.589Z info: Finish parser
+2024-08-13T10:52:02.636Z info: Start parser
+2024-08-13T10:52:02.826Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T10:52:07.832Z error: try again after waiting
+2024-08-13T10:52:08.940Z info: Finish parser
+2024-08-13T10:53:03.170Z info: Start parser
+2024-08-13T10:53:03.355Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T10:53:08.362Z error: try again after waiting
+2024-08-13T10:53:09.406Z info: Finish parser
+2024-08-13T10:54:02.696Z info: Start parser
+2024-08-13T10:54:03.807Z info: Finish parser
+2024-08-13T10:55:03.532Z info: Start parser
+2024-08-13T10:55:04.649Z info: Finish parser
+2024-08-13T10:56:03.108Z info: Start parser
+2024-08-13T10:56:04.332Z info: Finish parser
+2024-08-13T10:57:02.876Z info: Start parser
+2024-08-13T10:57:04.376Z info: Finish parser
+2024-08-13T10:58:03.322Z info: Start parser
+2024-08-13T10:58:04.453Z info: Finish parser
+2024-08-13T10:59:02.725Z info: Start parser
+2024-08-13T10:59:03.811Z info: Finish parser
+2024-08-13T11:00:03.447Z info: Start parser
+2024-08-13T11:00:04.630Z info: Finish parser
+2024-08-13T11:01:02.842Z info: Start parser
+2024-08-13T11:01:03.015Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T11:01:08.020Z error: try again after waiting
+2024-08-13T11:01:09.288Z info: Finish parser
+2024-08-13T11:02:02.367Z info: Start parser
+2024-08-13T11:02:03.744Z info: Finish parser
+2024-08-13T11:03:02.864Z info: Start parser
+2024-08-13T11:03:03.998Z info: Finish parser
+2024-08-13T11:04:03.432Z info: Start parser
+2024-08-13T11:04:04.654Z info: Finish parser
+2024-08-13T11:05:03.089Z info: Start parser
+2024-08-13T11:05:04.542Z info: Finish parser
+2024-08-13T11:06:03.208Z info: Start parser
+2024-08-13T11:06:04.758Z info: Finish parser
+2024-08-13T11:07:02.615Z info: Start parser
+2024-08-13T11:07:03.828Z info: Finish parser
+2024-08-13T11:08:02.962Z info: Start parser
+2024-08-13T11:08:03.139Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T11:08:08.145Z error: try again after waiting
+2024-08-13T11:08:09.209Z info: Finish parser
+2024-08-13T11:09:02.623Z info: Start parser
+2024-08-13T11:09:02.801Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T11:09:07.809Z error: try again after waiting
+2024-08-13T11:09:08.972Z info: Finish parser
+2024-08-13T11:10:03.269Z info: Start parser
+2024-08-13T11:10:04.357Z info: Finish parser
+2024-08-13T11:11:03.009Z info: Start parser
+2024-08-13T11:11:04.646Z info: Finish parser
+2024-08-13T11:12:02.755Z info: Start parser
+2024-08-13T11:12:03.925Z info: Finish parser
+2024-08-13T11:13:03.091Z info: Start parser
+2024-08-13T11:13:04.195Z info: Finish parser
+2024-08-13T11:14:02.668Z info: Start parser
+2024-08-13T11:14:03.904Z info: Finish parser
+2024-08-13T11:15:04.034Z info: Start parser
+2024-08-13T11:15:05.541Z info: Finish parser
+2024-08-13T11:16:02.655Z info: Start parser
+2024-08-13T11:16:03.759Z info: Finish parser
+2024-08-13T11:17:02.980Z info: Start parser
+2024-08-13T11:17:04.132Z info: Finish parser
+2024-08-13T11:18:02.661Z info: Start parser
+2024-08-13T11:18:03.990Z info: Finish parser
+2024-08-13T11:19:03.204Z info: Start parser
+2024-08-13T11:19:04.305Z info: Finish parser
+2024-08-13T11:20:02.756Z info: Start parser
+2024-08-13T11:20:04.577Z info: Finish parser
+2024-08-13T11:21:03.361Z info: Start parser
+2024-08-13T11:21:04.907Z info: Finish parser
+2024-08-13T11:22:03.087Z info: Start parser
+2024-08-13T11:22:04.373Z info: Finish parser
+2024-08-13T11:23:02.570Z info: Start parser
+2024-08-13T11:23:03.670Z info: Finish parser
+2024-08-13T11:24:03.817Z info: Start parser
+2024-08-13T11:24:05.098Z info: Finish parser
+2024-08-13T11:25:03.228Z info: Start parser
+2024-08-13T11:25:05.378Z info: Sent message: 13.08.2024 14:24: О вручении копии верительной грамоты назначенным Послом Дании в Российской Федерации Й.Варом http://mid.ru/ru/foreign_policy/news/1965477/
+2024-08-13T11:25:05.379Z info: Finish parser
+2024-08-13T11:26:02.567Z info: Start parser
+2024-08-13T11:26:03.716Z info: Finish parser
+2024-08-13T11:27:03.091Z info: Start parser
+2024-08-13T11:27:04.330Z info: Finish parser
+2024-08-13T11:28:02.706Z info: Start parser
+2024-08-13T11:28:03.926Z info: Finish parser
+2024-08-13T11:29:03.073Z info: Start parser
+2024-08-13T11:29:04.175Z info: Finish parser
+2024-08-13T11:30:02.696Z info: Start parser
+2024-08-13T11:30:03.934Z info: Finish parser
+2024-08-13T11:31:03.171Z info: Start parser
+2024-08-13T11:31:04.329Z info: Finish parser
+2024-08-13T11:32:02.806Z info: Start parser
+2024-08-13T11:32:03.977Z info: Finish parser
+2024-08-13T11:33:03.351Z info: Start parser
+2024-08-13T11:33:04.755Z info: Finish parser
+2024-08-13T11:34:03.321Z info: Start parser
+2024-08-13T11:34:03.512Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T11:34:08.519Z error: try again after waiting
+2024-08-13T11:34:08.654Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T11:34:13.659Z error: try again after waiting
+2024-08-13T11:34:14.709Z info: Finish parser
+2024-08-13T11:35:03.050Z info: Start parser
+2024-08-13T11:35:04.203Z info: Finish parser
+2024-08-13T11:36:02.519Z info: Start parser
+2024-08-13T11:36:03.615Z info: Finish parser
+2024-08-13T11:37:02.957Z info: Start parser
+2024-08-13T11:37:04.043Z info: Finish parser
+2024-08-13T11:38:02.355Z info: Start parser
+2024-08-13T11:38:03.519Z info: Finish parser
+2024-08-13T11:39:02.853Z info: Start parser
+2024-08-13T11:39:03.022Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T11:39:08.028Z error: try again after waiting
+2024-08-13T11:39:09.091Z info: Finish parser
+2024-08-13T11:40:02.479Z info: Start parser
+2024-08-13T11:40:03.554Z info: Finish parser
+2024-08-13T11:41:02.845Z info: Start parser
+2024-08-13T11:41:03.979Z info: Finish parser
+2024-08-13T11:42:03.476Z info: Start parser
+2024-08-13T11:42:05.012Z info: Finish parser
+2024-08-13T11:43:03.471Z info: Start parser
+2024-08-13T11:43:03.672Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T11:43:08.680Z error: try again after waiting
+2024-08-13T11:43:09.728Z info: Finish parser
+2024-08-13T11:44:03.178Z info: Start parser
+2024-08-13T11:44:04.276Z info: Finish parser
+2024-08-13T11:45:02.660Z info: Start parser
+2024-08-13T11:45:02.863Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T11:45:07.866Z error: try again after waiting
+2024-08-13T11:45:18.141Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T11:45:23.142Z error: try again after waiting
+2024-08-13T11:45:24.232Z info: Finish parser
+2024-08-13T11:46:02.542Z info: Start parser
+2024-08-13T11:46:03.755Z info: Finish parser
+2024-08-13T11:47:02.974Z info: Start parser
+2024-08-13T11:47:05.283Z info: Finish parser
+2024-08-13T11:48:02.313Z info: Start parser
+2024-08-13T11:48:03.382Z info: Finish parser
+2024-08-13T11:49:02.625Z info: Start parser
+2024-08-13T11:49:03.678Z info: Finish parser
+2024-08-13T11:50:03.035Z info: Start parser
+2024-08-13T11:50:04.182Z info: Finish parser
+2024-08-13T11:51:02.606Z info: Start parser
+2024-08-13T11:51:03.738Z info: Finish parser
+2024-08-13T11:52:03.197Z info: Start parser
+2024-08-13T11:52:04.546Z info: Finish parser
+2024-08-13T11:53:02.718Z info: Start parser
+2024-08-13T11:53:04.228Z info: Finish parser
+2024-08-13T11:54:03.596Z info: Start parser
+2024-08-13T11:54:05.303Z info: Finish parser
+2024-08-13T11:55:03.354Z info: Start parser
+2024-08-13T11:55:03.541Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T11:55:08.548Z error: try again after waiting
+2024-08-13T11:55:09.568Z info: Finish parser
+2024-08-13T11:56:02.884Z info: Start parser
+2024-08-13T11:56:04.082Z info: Finish parser
+2024-08-13T11:57:03.244Z info: Start parser
+2024-08-13T11:57:04.430Z info: Finish parser
+2024-08-13T11:58:02.720Z info: Start parser
+2024-08-13T11:58:03.809Z info: Finish parser
+2024-08-13T11:59:03.224Z info: Start parser
+2024-08-13T11:59:04.806Z info: Finish parser
+2024-08-13T12:00:03.267Z info: Start parser
+2024-08-13T12:00:04.424Z info: Finish parser
+2024-08-13T12:01:02.856Z info: Start parser
+2024-08-13T12:01:04.041Z info: Finish parser
+2024-08-13T12:02:03.668Z info: Start parser
+2024-08-13T12:02:05.093Z info: Finish parser
+2024-08-13T12:03:03.113Z info: Start parser
+2024-08-13T12:03:04.177Z info: Finish parser
+2024-08-13T12:04:02.583Z info: Start parser
+2024-08-13T12:04:03.646Z info: Finish parser
+2024-08-13T12:05:02.975Z info: Start parser
+2024-08-13T12:05:05.525Z info: Finish parser
+2024-08-13T12:06:02.705Z info: Start parser
+2024-08-13T12:06:03.803Z info: Finish parser
+2024-08-13T12:07:03.042Z info: Start parser
+2024-08-13T12:07:04.140Z info: Finish parser
+2024-08-13T12:08:02.525Z info: Start parser
+2024-08-13T12:08:03.805Z info: Finish parser
+2024-08-13T12:09:03.159Z info: Start parser
+2024-08-13T12:09:05.324Z info: Finish parser
+2024-08-13T12:10:02.762Z info: Start parser
+2024-08-13T12:10:03.896Z info: Finish parser
+2024-08-13T12:11:03.880Z info: Start parser
+2024-08-13T12:11:05.578Z info: Finish parser
+2024-08-13T12:12:03.250Z info: Start parser
+2024-08-13T12:12:04.564Z info: Finish parser
+2024-08-13T12:13:02.623Z info: Start parser
+2024-08-13T12:13:03.993Z info: Finish parser
+2024-08-13T12:14:03.212Z info: Start parser
+2024-08-13T12:14:04.395Z info: Finish parser
+2024-08-13T12:15:03.081Z info: Start parser
+2024-08-13T12:15:04.242Z info: Finish parser
+2024-08-13T12:16:02.505Z info: Start parser
+2024-08-13T12:16:03.647Z info: Finish parser
+2024-08-13T12:17:02.887Z info: Start parser
+2024-08-13T12:17:04.066Z info: Finish parser
+2024-08-13T12:18:03.462Z info: Start parser
+2024-08-13T12:18:04.656Z info: Finish parser
+2024-08-13T12:19:02.889Z info: Start parser
+2024-08-13T12:19:03.974Z info: Finish parser
+2024-08-13T12:20:04.189Z info: Start parser
+2024-08-13T12:20:05.881Z info: Finish parser
+2024-08-13T12:21:02.794Z info: Start parser
+2024-08-13T12:21:03.875Z info: Finish parser
+2024-08-13T12:22:03.325Z info: Start parser
+2024-08-13T12:22:04.448Z info: Finish parser
+2024-08-13T12:23:02.827Z info: Start parser
+2024-08-13T12:23:03.987Z info: Finish parser
+2024-08-13T12:24:03.260Z info: Start parser
+2024-08-13T12:24:04.385Z info: Finish parser
+2024-08-13T12:25:02.743Z info: Start parser
+2024-08-13T12:25:03.855Z info: Finish parser
+2024-08-13T12:26:03.291Z info: Start parser
+2024-08-13T12:26:03.482Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T12:26:08.488Z error: try again after waiting
+2024-08-13T12:26:09.567Z info: Finish parser
+2024-08-13T12:27:02.977Z info: Start parser
+2024-08-13T12:27:04.109Z info: Finish parser
+2024-08-13T12:28:02.638Z info: Start parser
+2024-08-13T12:28:03.779Z info: Finish parser
+2024-08-13T12:29:03.881Z info: Start parser
+2024-08-13T12:29:05.344Z info: Finish parser
+2024-08-13T12:30:03.755Z info: Start parser
+2024-08-13T12:30:04.889Z info: Finish parser
+2024-08-13T12:31:03.388Z info: Start parser
+2024-08-13T12:31:04.669Z info: Finish parser
+2024-08-13T12:32:02.895Z info: Start parser
+2024-08-13T12:32:04.220Z info: Finish parser
+2024-08-13T12:33:03.408Z info: Start parser
+2024-08-13T12:33:04.560Z info: Finish parser
+2024-08-13T12:34:03.020Z info: Start parser
+2024-08-13T12:34:04.213Z info: Finish parser
+2024-08-13T12:35:02.406Z info: Start parser
+2024-08-13T12:35:03.825Z info: Finish parser
+2024-08-13T12:36:02.845Z info: Start parser
+2024-08-13T12:36:04.160Z info: Finish parser
+2024-08-13T12:37:03.355Z info: Start parser
+2024-08-13T12:37:04.553Z info: Finish parser
+2024-08-13T12:38:03.594Z info: Start parser
+2024-08-13T12:38:05.116Z info: Finish parser
+2024-08-13T12:39:03.013Z info: Start parser
+2024-08-13T12:39:04.109Z info: Finish parser
+2024-08-13T12:40:02.656Z info: Start parser
+2024-08-13T12:40:03.976Z info: Finish parser
+2024-08-13T12:41:03.269Z info: Start parser
+2024-08-13T12:41:03.473Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T12:41:08.477Z error: try again after waiting
+2024-08-13T12:41:09.774Z info: Finish parser
+2024-08-13T12:42:03.024Z info: Start parser
+2024-08-13T12:42:04.533Z info: Finish parser
+2024-08-13T12:43:02.373Z info: Start parser
+2024-08-13T12:43:03.423Z info: Finish parser
+2024-08-13T12:44:02.793Z info: Start parser
+2024-08-13T12:44:03.965Z info: Finish parser
+2024-08-13T12:45:03.748Z info: Start parser
+2024-08-13T12:45:04.986Z info: Finish parser
+2024-08-13T12:46:03.692Z info: Start parser
+2024-08-13T12:46:04.791Z info: Finish parser
+2024-08-13T12:47:03.901Z info: Start parser
+2024-08-13T12:47:05.608Z info: Finish parser
+2024-08-13T12:48:03.238Z info: Start parser
+2024-08-13T12:48:04.401Z info: Finish parser
+2024-08-13T12:49:02.791Z info: Start parser
+2024-08-13T12:49:04.003Z info: Finish parser
+2024-08-13T12:50:03.263Z info: Start parser
+2024-08-13T12:50:04.420Z info: Finish parser
+2024-08-13T12:51:02.798Z info: Start parser
+2024-08-13T12:51:03.888Z info: Finish parser
+2024-08-13T12:52:03.177Z info: Start parser
+2024-08-13T12:52:04.582Z info: Finish parser
+2024-08-13T12:53:02.776Z info: Start parser
+2024-08-13T12:53:04.149Z info: Finish parser
+2024-08-13T12:54:03.522Z info: Start parser
+2024-08-13T12:54:03.722Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T12:54:08.730Z error: try again after waiting
+2024-08-13T12:54:09.894Z info: Finish parser
+2024-08-13T12:55:03.336Z info: Start parser
+2024-08-13T12:55:03.501Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T12:55:08.507Z error: try again after waiting
+2024-08-13T12:55:09.575Z info: Finish parser
+2024-08-13T12:56:03.476Z info: Start parser
+2024-08-13T12:56:05.151Z info: Finish parser
+2024-08-13T12:57:02.977Z info: Start parser
+2024-08-13T12:57:04.085Z info: Finish parser
+2024-08-13T12:58:02.551Z info: Start parser
+2024-08-13T12:58:02.746Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T12:58:07.752Z error: try again after waiting
+2024-08-13T12:58:08.786Z info: Finish parser
+2024-08-13T12:59:03.309Z info: Start parser
+2024-08-13T12:59:04.471Z info: Finish parser
+2024-08-13T13:00:03.362Z info: Start parser
+2024-08-13T13:00:03.551Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T13:00:08.559Z error: try again after waiting
+2024-08-13T13:00:09.848Z info: Finish parser
+2024-08-13T13:01:03.084Z info: Start parser
+2024-08-13T13:01:04.372Z info: Finish parser
+2024-08-13T13:02:02.594Z info: Start parser
+2024-08-13T13:02:03.639Z info: Finish parser
+2024-08-13T13:03:02.995Z info: Start parser
+2024-08-13T13:03:04.234Z info: Finish parser
+2024-08-13T13:04:02.485Z info: Start parser
+2024-08-13T13:04:03.829Z info: Finish parser
+2024-08-13T13:05:03.929Z info: Start parser
+2024-08-13T13:05:05.431Z info: Finish parser
+2024-08-13T13:06:02.500Z info: Start parser
+2024-08-13T13:06:03.931Z info: Finish parser
+2024-08-13T13:07:03.077Z info: Start parser
+2024-08-13T13:07:04.473Z info: Finish parser
+2024-08-13T13:08:02.504Z info: Start parser
+2024-08-13T13:08:03.731Z info: Finish parser
+2024-08-13T13:09:02.914Z info: Start parser
+2024-08-13T13:09:04.127Z info: Finish parser
+2024-08-13T13:10:03.501Z info: Start parser
+2024-08-13T13:10:04.606Z info: Finish parser
+2024-08-13T13:11:02.985Z info: Start parser
+2024-08-13T13:11:04.409Z info: Finish parser
+2024-08-13T13:12:02.469Z info: Start parser
+2024-08-13T13:12:03.717Z info: Finish parser
+2024-08-13T13:13:02.939Z info: Start parser
+2024-08-13T13:13:04.246Z info: Finish parser
+2024-08-13T13:14:03.128Z info: Start parser
+2024-08-13T13:14:04.732Z info: Finish parser
+2024-08-13T13:15:02.774Z info: Start parser
+2024-08-13T13:15:04.011Z info: Finish parser
+2024-08-13T13:16:03.161Z info: Start parser
+2024-08-13T13:16:04.673Z info: Finish parser
+2024-08-13T13:17:02.771Z info: Start parser
+2024-08-13T13:17:03.865Z info: Finish parser
+2024-08-13T13:18:03.357Z info: Start parser
+2024-08-13T13:18:04.471Z info: Finish parser
+2024-08-13T13:19:03.201Z info: Start parser
+2024-08-13T13:19:04.567Z info: Finish parser
+2024-08-13T13:20:03.040Z info: Start parser
+2024-08-13T13:20:04.502Z info: Finish parser
+2024-08-13T13:21:02.412Z info: Start parser
+2024-08-13T13:21:03.617Z info: Finish parser
+2024-08-13T13:22:03.026Z info: Start parser
+2024-08-13T13:22:04.272Z info: Finish parser
+2024-08-13T13:23:02.973Z info: Start parser
+2024-08-13T13:23:04.582Z info: Finish parser
+2024-08-13T13:24:02.659Z info: Start parser
+2024-08-13T13:24:12.998Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T13:24:18.000Z error: try again after waiting
+2024-08-13T13:24:18.114Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T13:24:23.120Z error: try again after waiting
+2024-08-13T13:24:24.363Z info: Finish parser
+2024-08-13T13:25:02.666Z info: Start parser
+2024-08-13T13:25:03.944Z info: Finish parser
+2024-08-13T13:26:03.130Z info: Start parser
+2024-08-13T13:26:03.303Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T13:26:08.306Z error: try again after waiting
+2024-08-13T13:26:10.926Z info: Finish parser
+2024-08-13T13:27:02.748Z info: Start parser
+2024-08-13T13:27:04.139Z info: Finish parser
+2024-08-13T13:28:03.386Z info: Start parser
+2024-08-13T13:28:04.671Z info: Finish parser
+2024-08-13T13:29:03.362Z info: Start parser
+2024-08-13T13:29:04.946Z info: Finish parser
+2024-08-13T13:30:03.292Z info: Start parser
+2024-08-13T13:30:04.615Z info: Finish parser
+2024-08-13T13:31:02.811Z info: Start parser
+2024-08-13T13:31:03.967Z info: Finish parser
+2024-08-13T13:32:03.702Z info: Start parser
+2024-08-13T13:32:03.909Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T13:32:08.915Z error: try again after waiting
+2024-08-13T13:32:09.975Z info: Finish parser
+2024-08-13T13:33:03.634Z info: Start parser
+2024-08-13T13:33:03.815Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T13:33:08.821Z error: try again after waiting
+2024-08-13T13:33:10.142Z info: Finish parser
+2024-08-13T13:34:03.455Z info: Start parser
+2024-08-13T13:34:04.570Z info: Finish parser
+2024-08-13T13:35:03.135Z info: Start parser
+2024-08-13T13:35:04.366Z info: Finish parser
+2024-08-13T13:36:02.635Z info: Start parser
+2024-08-13T13:36:03.759Z info: Finish parser
+2024-08-13T13:37:02.919Z info: Start parser
+2024-08-13T13:37:03.983Z info: Finish parser
+2024-08-13T13:38:03.287Z info: Start parser
+2024-08-13T13:38:04.346Z info: Finish parser
+2024-08-13T13:39:02.633Z info: Start parser
+2024-08-13T13:39:03.722Z info: Finish parser
+2024-08-13T13:40:03.088Z info: Start parser
+2024-08-13T13:40:05.722Z info: Finish parser
+2024-08-13T13:41:03.070Z info: Start parser
+2024-08-13T13:41:03.297Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T13:41:08.303Z error: try again after waiting
+2024-08-13T13:41:09.342Z info: Finish parser
+2024-08-13T13:42:02.749Z info: Start parser
+2024-08-13T13:42:04.016Z info: Finish parser
+2024-08-13T13:43:03.107Z info: Start parser
+2024-08-13T13:43:03.308Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T13:43:08.310Z error: try again after waiting
+2024-08-13T13:43:09.324Z info: Finish parser
+2024-08-13T13:44:03.064Z info: Start parser
+2024-08-13T13:44:04.170Z info: Finish parser
+2024-08-13T13:45:02.764Z info: Start parser
+2024-08-13T13:45:04.144Z info: Finish parser
+2024-08-13T13:46:03.475Z info: Start parser
+2024-08-13T13:46:06.716Z info: Finish parser
+2024-08-13T13:47:02.957Z info: Start parser
+2024-08-13T13:47:04.040Z info: Finish parser
+2024-08-13T13:48:02.507Z info: Start parser
+2024-08-13T13:48:03.732Z info: Finish parser
+2024-08-13T13:49:03.073Z info: Start parser
+2024-08-13T13:49:04.415Z info: Finish parser
+2024-08-13T13:50:03.244Z info: Start parser
+2024-08-13T13:50:04.611Z info: Finish parser
+2024-08-13T13:51:02.632Z info: Start parser
+2024-08-13T13:51:03.976Z info: Finish parser
+2024-08-13T13:52:03.062Z info: Start parser
+2024-08-13T13:52:04.403Z info: Finish parser
+2024-08-13T13:53:02.618Z info: Start parser
+2024-08-13T13:53:04.049Z info: Finish parser
+2024-08-13T13:54:03.487Z info: Start parser
+2024-08-13T13:54:04.683Z info: Finish parser
+2024-08-13T13:55:03.005Z info: Start parser
+2024-08-13T13:55:03.173Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T13:55:08.180Z error: try again after waiting
+2024-08-13T13:55:09.512Z info: Finish parser
+2024-08-13T13:56:02.503Z info: Start parser
+2024-08-13T13:56:03.665Z info: Finish parser
+2024-08-13T13:57:03.006Z info: Start parser
+2024-08-13T13:57:04.145Z info: Finish parser
+2024-08-13T13:58:02.551Z info: Start parser
+2024-08-13T13:58:03.685Z info: Finish parser
+2024-08-13T13:59:03.597Z info: Start parser
+2024-08-13T13:59:03.784Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T13:59:08.791Z error: try again after waiting
+2024-08-13T13:59:10.120Z info: Finish parser
+2024-08-13T14:00:03.432Z info: Start parser
+2024-08-13T14:00:04.503Z info: Finish parser
+2024-08-13T14:01:02.861Z info: Start parser
+2024-08-13T14:01:04.044Z info: Finish parser
+2024-08-13T14:02:03.338Z info: Start parser
+2024-08-13T14:02:04.902Z info: Finish parser
+2024-08-13T14:03:02.705Z info: Start parser
+2024-08-13T14:03:03.771Z info: Finish parser
+2024-08-13T14:04:03.699Z info: Start parser
+2024-08-13T14:04:04.891Z info: Finish parser
+2024-08-13T14:05:03.200Z info: Start parser
+2024-08-13T14:05:04.297Z info: Finish parser
+2024-08-13T14:06:02.744Z info: Start parser
+2024-08-13T14:06:04.005Z info: Finish parser
+2024-08-13T14:07:03.131Z info: Start parser
+2024-08-13T14:07:05.106Z info: Finish parser
+2024-08-13T14:08:03.111Z info: Start parser
+2024-08-13T14:08:05.745Z info: Finish parser
+2024-08-13T14:09:03.202Z info: Start parser
+2024-08-13T14:09:04.741Z info: Sent message: 13.08.2024 17:07: О вызове в МИД России временного поверенного в делах Республики Молдова в Российской Федерации http://mid.ru/ru/foreign_policy/news/1965491/
+2024-08-13T14:09:04.741Z info: Finish parser
+2024-08-13T14:10:02.830Z info: Start parser
+2024-08-13T14:10:04.204Z info: Finish parser
+2024-08-13T14:11:03.345Z info: Start parser
+2024-08-13T14:11:04.447Z info: Finish parser
+2024-08-13T14:12:03.081Z info: Start parser
+2024-08-13T14:12:04.367Z info: Finish parser
+2024-08-13T14:13:02.528Z info: Start parser
+2024-08-13T14:13:03.612Z info: Finish parser
+2024-08-13T14:14:02.890Z info: Start parser
+2024-08-13T14:14:03.964Z info: Finish parser
+2024-08-13T14:15:03.467Z info: Start parser
+2024-08-13T14:15:04.570Z info: Finish parser
+2024-08-13T14:16:02.954Z info: Start parser
+2024-08-13T14:16:04.123Z info: Finish parser
+2024-08-13T14:17:03.035Z info: Start parser
+2024-08-13T14:17:04.620Z info: Finish parser
+2024-08-13T14:18:02.593Z info: Start parser
+2024-08-13T14:18:03.722Z info: Finish parser
+2024-08-13T14:19:03.308Z info: Start parser
+2024-08-13T14:19:13.685Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T14:19:18.686Z error: try again after waiting
+2024-08-13T14:19:20.159Z info: Finish parser
+2024-08-13T14:20:03.107Z info: Start parser
+2024-08-13T14:20:04.221Z info: Finish parser
+2024-08-13T14:21:02.764Z info: Start parser
+2024-08-13T14:21:03.888Z info: Finish parser
+2024-08-13T14:22:03.678Z info: Start parser
+2024-08-13T14:22:04.890Z info: Finish parser
+2024-08-13T14:23:03.034Z info: Start parser
+2024-08-13T14:23:04.654Z info: Finish parser
+2024-08-13T14:24:02.603Z info: Start parser
+2024-08-13T14:24:02.803Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T14:24:07.811Z error: try again after waiting
+2024-08-13T14:24:09.072Z info: Finish parser
+2024-08-13T14:25:03.586Z info: Start parser
+2024-08-13T14:25:04.701Z info: Finish parser
+2024-08-13T14:26:02.909Z info: Start parser
+2024-08-13T14:26:04.336Z info: Finish parser
+2024-08-13T14:27:02.366Z info: Start parser
+2024-08-13T14:27:03.472Z info: Finish parser
+2024-08-13T14:28:02.900Z info: Start parser
+2024-08-13T14:28:04.385Z info: Finish parser
+2024-08-13T14:29:03.790Z info: Start parser
+2024-08-13T14:29:04.883Z info: Finish parser
+2024-08-13T14:30:03.343Z info: Start parser
+2024-08-13T14:30:04.444Z info: Finish parser
+2024-08-13T14:31:02.787Z info: Start parser
+2024-08-13T14:31:04.041Z info: Finish parser
+2024-08-13T14:32:03.304Z info: Start parser
+2024-08-13T14:32:04.585Z info: Finish parser
+2024-08-13T14:33:02.777Z info: Start parser
+2024-08-13T14:33:03.966Z info: Finish parser
+2024-08-13T14:34:03.843Z info: Start parser
+2024-08-13T14:34:05.330Z info: Finish parser
+2024-08-13T14:35:03.331Z info: Start parser
+2024-08-13T14:35:04.511Z info: Finish parser
+2024-08-13T14:36:02.990Z info: Start parser
+2024-08-13T14:36:04.448Z info: Finish parser
+2024-08-13T14:37:02.409Z info: Start parser
+2024-08-13T14:37:03.516Z info: Finish parser
+2024-08-13T14:38:02.921Z info: Start parser
+2024-08-13T14:38:04.300Z info: Finish parser
+2024-08-13T14:39:03.435Z info: Start parser
+2024-08-13T14:39:04.735Z info: Finish parser
+2024-08-13T14:40:03.217Z info: Start parser
+2024-08-13T14:40:04.476Z info: Finish parser
+2024-08-13T14:41:02.686Z info: Start parser
+2024-08-13T14:41:02.861Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T14:41:07.868Z error: try again after waiting
+2024-08-13T14:41:08.964Z info: Finish parser
+2024-08-13T14:42:03.704Z info: Start parser
+2024-08-13T14:42:05.122Z info: Finish parser
+2024-08-13T14:43:03.539Z info: Start parser
+2024-08-13T14:43:04.941Z info: Finish parser
+2024-08-13T14:44:02.973Z info: Start parser
+2024-08-13T14:44:04.034Z info: Finish parser
+2024-08-13T14:45:02.652Z info: Start parser
+2024-08-13T14:45:04.032Z info: Finish parser
+2024-08-13T14:46:03.040Z info: Start parser
+2024-08-13T14:46:04.141Z info: Finish parser
+2024-08-13T14:47:02.659Z info: Start parser
+2024-08-13T14:47:03.907Z info: Finish parser
+2024-08-13T14:48:03.146Z info: Start parser
+2024-08-13T14:48:04.402Z info: Finish parser
+2024-08-13T14:49:02.588Z info: Start parser
+2024-08-13T14:49:03.722Z info: Finish parser
+2024-08-13T14:50:03.221Z info: Start parser
+2024-08-13T14:50:03.408Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T14:50:08.415Z error: try again after waiting
+2024-08-13T14:50:09.517Z info: Finish parser
+2024-08-13T14:51:02.821Z info: Start parser
+2024-08-13T14:51:03.905Z info: Finish parser
+2024-08-13T14:52:03.984Z info: Start parser
+2024-08-13T14:52:05.417Z info: Finish parser
+2024-08-13T14:53:02.471Z info: Start parser
+2024-08-13T14:53:03.812Z info: Finish parser
+2024-08-13T14:54:02.929Z info: Start parser
+2024-08-13T14:54:04.118Z info: Finish parser
+2024-08-13T14:55:02.441Z info: Start parser
+2024-08-13T14:55:03.641Z info: Finish parser
+2024-08-13T14:56:02.957Z info: Start parser
+2024-08-13T14:56:04.129Z info: Finish parser
+2024-08-13T14:57:02.421Z info: Start parser
+2024-08-13T14:57:03.864Z info: Finish parser
+2024-08-13T14:58:03.052Z info: Start parser
+2024-08-13T14:58:04.179Z info: Finish parser
+2024-08-13T14:59:02.493Z info: Start parser
+2024-08-13T14:59:03.651Z info: Finish parser
+2024-08-13T15:00:03.539Z info: Start parser
+2024-08-13T15:00:04.850Z info: Finish parser
+2024-08-13T15:01:03.555Z info: Start parser
+2024-08-13T15:01:05.152Z info: Finish parser
+2024-08-13T15:02:03.129Z info: Start parser
+2024-08-13T15:02:04.225Z info: Finish parser
+2024-08-13T15:03:03.048Z info: Start parser
+2024-08-13T15:03:04.210Z info: Finish parser
+2024-08-13T15:04:02.555Z info: Start parser
+2024-08-13T15:04:03.975Z info: Finish parser
+2024-08-13T15:05:03.189Z info: Start parser
+2024-08-13T15:05:04.375Z info: Finish parser
+2024-08-13T15:06:02.862Z info: Start parser
+2024-08-13T15:06:04.022Z info: Finish parser
+2024-08-13T15:07:03.233Z info: Start parser
+2024-08-13T15:07:04.560Z info: Finish parser
+2024-08-13T15:08:02.845Z info: Start parser
+2024-08-13T15:08:04.112Z info: Finish parser
+2024-08-13T15:09:03.251Z info: Start parser
+2024-08-13T15:09:04.419Z info: Finish parser
+2024-08-13T15:10:03.475Z info: Start parser
+2024-08-13T15:10:05.108Z info: Finish parser
+2024-08-13T15:11:03.232Z info: Start parser
+2024-08-13T15:11:04.660Z info: Finish parser
+2024-08-13T15:12:02.812Z info: Start parser
+2024-08-13T15:12:04.728Z info: Finish parser
+2024-08-13T15:13:03.249Z info: Start parser
+2024-08-13T15:13:04.373Z info: Finish parser
+2024-08-13T15:14:02.635Z info: Start parser
+2024-08-13T15:14:03.851Z info: Finish parser
+2024-08-13T15:15:03.256Z info: Start parser
+2024-08-13T15:15:04.444Z info: Finish parser
+2024-08-13T15:16:02.954Z info: Start parser
+2024-08-13T15:16:04.333Z info: Finish parser
+2024-08-13T15:17:02.587Z info: Start parser
+2024-08-13T15:17:03.689Z info: Finish parser
+2024-08-13T15:18:03.008Z info: Start parser
+2024-08-13T15:18:04.100Z info: Finish parser
+2024-08-13T15:19:02.853Z info: Start parser
+2024-08-13T15:19:04.472Z info: Finish parser
+2024-08-13T15:20:03.505Z info: Start parser
+2024-08-13T15:20:04.754Z info: Finish parser
+2024-08-13T15:21:03.409Z info: Start parser
+2024-08-13T15:21:04.622Z info: Finish parser
+2024-08-13T15:22:03.120Z info: Start parser
+2024-08-13T15:22:04.244Z info: Finish parser
+2024-08-13T15:23:02.761Z info: Start parser
+2024-08-13T15:23:04.465Z info: Finish parser
+2024-08-13T15:24:03.448Z info: Start parser
+2024-08-13T15:24:04.830Z info: Finish parser
+2024-08-13T15:25:03.027Z info: Start parser
+2024-08-13T15:25:03.212Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T15:25:08.218Z error: try again after waiting
+2024-08-13T15:25:09.265Z info: Finish parser
+2024-08-13T15:26:02.915Z info: Start parser
+2024-08-13T15:26:04.126Z info: Finish parser
+2024-08-13T15:27:03.547Z info: Start parser
+2024-08-13T15:27:05.023Z info: Finish parser
+2024-08-13T15:28:03.537Z info: Start parser
+2024-08-13T15:28:05.208Z info: Finish parser
+2024-08-13T15:29:03.341Z info: Start parser
+2024-08-13T15:29:04.709Z info: Finish parser
+2024-08-13T15:30:03.067Z info: Start parser
+2024-08-13T15:30:04.276Z info: Finish parser
+2024-08-13T15:31:02.505Z info: Start parser
+2024-08-13T15:31:13.884Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T15:31:18.886Z error: try again after waiting
+2024-08-13T15:31:20.028Z info: Finish parser
+2024-08-13T15:32:03.496Z info: Start parser
+2024-08-13T15:32:04.727Z info: Finish parser
+2024-08-13T15:33:02.990Z info: Start parser
+2024-08-13T15:33:04.129Z info: Finish parser
+2024-08-13T15:34:02.543Z info: Start parser
+2024-08-13T15:34:03.649Z info: Finish parser
+2024-08-13T15:35:03.190Z info: Start parser
+2024-08-13T15:35:03.366Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T15:35:08.373Z error: try again after waiting
+2024-08-13T15:35:09.379Z info: Finish parser
+2024-08-13T15:36:03.220Z info: Start parser
+2024-08-13T15:36:04.513Z info: Finish parser
+2024-08-13T15:37:03.426Z info: Start parser
+2024-08-13T15:37:05.238Z info: Finish parser
+2024-08-13T15:38:03.016Z info: Start parser
+2024-08-13T15:38:04.182Z info: Finish parser
+2024-08-13T15:39:02.588Z info: Start parser
+2024-08-13T15:39:03.722Z info: Finish parser
+2024-08-13T15:40:03.487Z info: Start parser
+2024-08-13T15:40:04.679Z info: Finish parser
+2024-08-13T15:41:02.881Z info: Start parser
+2024-08-13T15:41:04.025Z info: Finish parser
+2024-08-13T15:42:03.296Z info: Start parser
+2024-08-13T15:42:03.473Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T15:42:08.481Z error: try again after waiting
+2024-08-13T15:42:09.537Z info: Finish parser
+2024-08-13T15:43:03.336Z info: Start parser
+2024-08-13T15:43:04.555Z info: Finish parser
+2024-08-13T15:44:02.868Z info: Start parser
+2024-08-13T15:44:04.078Z info: Finish parser
+2024-08-13T15:45:03.397Z info: Start parser
+2024-08-13T15:45:04.496Z info: Finish parser
+2024-08-13T15:46:03.454Z info: Start parser
+2024-08-13T15:46:04.919Z info: Finish parser
+2024-08-13T15:47:03.165Z info: Start parser
+2024-08-13T15:47:03.394Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T15:47:08.400Z error: try again after waiting
+2024-08-13T15:47:09.796Z info: Finish parser
+2024-08-13T15:48:02.838Z info: Start parser
+2024-08-13T15:48:04.167Z info: Finish parser
+2024-08-13T15:49:03.628Z info: Start parser
+2024-08-13T15:49:04.913Z info: Finish parser
+2024-08-13T15:50:03.430Z info: Start parser
+2024-08-13T15:50:05.188Z info: Finish parser
+2024-08-13T15:51:02.941Z info: Start parser
+2024-08-13T15:51:04.178Z info: Finish parser
+2024-08-13T15:52:02.367Z info: Start parser
+2024-08-13T15:52:03.680Z info: Finish parser
+2024-08-13T15:53:02.911Z info: Start parser
+2024-08-13T15:53:04.217Z info: Finish parser
+2024-08-13T15:54:03.352Z info: Start parser
+2024-08-13T15:54:13.686Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T15:54:18.687Z error: try again after waiting
+2024-08-13T15:54:27.968Z info: Finish parser
+2024-08-13T15:55:03.928Z info: Start parser
+2024-08-13T15:55:05.368Z info: Finish parser
+2024-08-13T15:56:02.537Z info: Start parser
+2024-08-13T15:56:03.856Z info: Finish parser
+2024-08-13T15:57:02.973Z info: Start parser
+2024-08-13T15:57:04.284Z info: Finish parser
+2024-08-13T15:58:02.670Z info: Start parser
+2024-08-13T15:58:02.853Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T15:58:07.860Z error: try again after waiting
+2024-08-13T15:58:07.985Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T15:58:12.988Z error: try again after waiting
+2024-08-13T15:58:14.031Z info: Finish parser
+2024-08-13T15:59:02.485Z info: Start parser
+2024-08-13T15:59:03.701Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T15:59:08.707Z error: try again after waiting
+2024-08-13T15:59:08.847Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T15:59:13.851Z error: try again after waiting
+2024-08-13T15:59:14.930Z info: Finish parser
+2024-08-13T16:00:03.621Z info: Start parser
+2024-08-13T16:00:04.024Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:00:09.031Z error: try again after waiting
+2024-08-13T16:00:09.153Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:00:14.155Z error: try again after waiting
+2024-08-13T16:00:14.278Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:00:19.279Z error: try again after waiting
+2024-08-13T16:00:19.280Z info: Finish parser
+2024-08-13T16:01:02.795Z info: Start parser
+2024-08-13T16:01:03.958Z info: Finish parser
+2024-08-13T16:02:03.319Z info: Start parser
+2024-08-13T16:02:03.506Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:02:08.513Z error: try again after waiting
+2024-08-13T16:02:08.680Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:02:13.683Z error: try again after waiting
+2024-08-13T16:02:13.790Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:02:18.791Z error: try again after waiting
+2024-08-13T16:02:18.793Z info: Finish parser
+2024-08-13T16:03:03.014Z info: Start parser
+2024-08-13T16:03:03.417Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:03:08.424Z error: try again after waiting
+2024-08-13T16:03:08.529Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:03:13.531Z error: try again after waiting
+2024-08-13T16:03:14.718Z info: Finish parser
+2024-08-13T16:04:03.120Z info: Start parser
+2024-08-13T16:04:03.316Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:04:08.323Z error: try again after waiting
+2024-08-13T16:04:08.657Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:04:13.659Z error: try again after waiting
+2024-08-13T16:04:13.800Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:04:18.802Z error: try again after waiting
+2024-08-13T16:04:18.802Z info: Finish parser
+2024-08-13T16:05:03.746Z info: Start parser
+2024-08-13T16:05:03.953Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:05:08.961Z error: try again after waiting
+2024-08-13T16:05:10.407Z info: Finish parser
+2024-08-13T16:06:03.225Z info: Start parser
+2024-08-13T16:06:10.775Z info: Finish parser
+2024-08-13T16:07:03.137Z info: Start parser
+2024-08-13T16:07:04.249Z info: Finish parser
+2024-08-13T16:08:02.548Z info: Start parser
+2024-08-13T16:08:02.735Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:08:07.741Z error: try again after waiting
+2024-08-13T16:08:08.833Z info: Finish parser
+2024-08-13T16:09:03.266Z info: Start parser
+2024-08-13T16:09:05.504Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:09:10.507Z error: try again after waiting
+2024-08-13T16:09:10.632Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:09:15.637Z error: try again after waiting
+2024-08-13T16:09:16.714Z info: Finish parser
+2024-08-13T16:10:03.006Z info: Start parser
+2024-08-13T16:10:03.183Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:10:08.190Z error: try again after waiting
+2024-08-13T16:10:08.312Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:10:13.314Z error: try again after waiting
+2024-08-13T16:10:13.458Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:10:18.459Z error: try again after waiting
+2024-08-13T16:10:18.460Z info: Finish parser
+2024-08-13T16:11:02.768Z info: Start parser
+2024-08-13T16:11:02.954Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:11:07.961Z error: try again after waiting
+2024-08-13T16:11:09.064Z info: Finish parser
+2024-08-13T16:12:03.238Z info: Start parser
+2024-08-13T16:12:04.575Z info: Finish parser
+2024-08-13T16:13:02.805Z info: Start parser
+2024-08-13T16:13:03.036Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:13:08.042Z error: try again after waiting
+2024-08-13T16:13:08.152Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:13:13.154Z error: try again after waiting
+2024-08-13T16:13:14.233Z info: Finish parser
+2024-08-13T16:14:03.333Z info: Start parser
+2024-08-13T16:14:03.557Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:14:08.564Z error: try again after waiting
+2024-08-13T16:14:08.679Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:14:13.682Z error: try again after waiting
+2024-08-13T16:14:13.790Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:14:18.792Z error: try again after waiting
+2024-08-13T16:14:18.794Z info: Finish parser
+2024-08-13T16:15:03.201Z info: Start parser
+2024-08-13T16:15:04.306Z info: Finish parser
+2024-08-13T16:16:02.531Z info: Start parser
+2024-08-13T16:16:02.916Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:16:07.922Z error: try again after waiting
+2024-08-13T16:16:09.193Z info: Finish parser
+2024-08-13T16:17:03.348Z info: Start parser
+2024-08-13T16:17:04.441Z info: Finish parser
+2024-08-13T16:18:02.834Z info: Start parser
+2024-08-13T16:18:03.014Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:18:08.021Z error: try again after waiting
+2024-08-13T16:18:08.144Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:18:13.146Z error: try again after waiting
+2024-08-13T16:18:14.456Z info: Finish parser
+2024-08-13T16:19:02.959Z info: Start parser
+2024-08-13T16:19:04.080Z info: Finish parser
+2024-08-13T16:20:02.533Z info: Start parser
+2024-08-13T16:20:02.717Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:20:07.724Z error: try again after waiting
+2024-08-13T16:20:07.841Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:20:12.844Z error: try again after waiting
+2024-08-13T16:20:12.965Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:20:17.966Z error: try again after waiting
+2024-08-13T16:20:17.967Z info: Finish parser
+2024-08-13T16:21:03.268Z info: Start parser
+2024-08-13T16:21:03.447Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:21:08.453Z error: try again after waiting
+2024-08-13T16:21:08.562Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:21:13.564Z error: try again after waiting
+2024-08-13T16:21:14.854Z info: Finish parser
+2024-08-13T16:22:02.970Z info: Start parser
+2024-08-13T16:22:04.098Z info: Finish parser
+2024-08-13T16:23:02.674Z info: Start parser
+2024-08-13T16:23:02.853Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:23:07.860Z error: try again after waiting
+2024-08-13T16:23:08.952Z info: Finish parser
+2024-08-13T16:24:03.962Z info: Start parser
+2024-08-13T16:24:05.621Z info: Finish parser
+2024-08-13T16:25:02.587Z info: Start parser
+2024-08-13T16:25:02.755Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:25:07.762Z error: try again after waiting
+2024-08-13T16:25:08.909Z info: Finish parser
+2024-08-13T16:26:03.231Z info: Start parser
+2024-08-13T16:26:03.412Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:26:08.419Z error: try again after waiting
+2024-08-13T16:26:08.761Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:26:13.764Z error: try again after waiting
+2024-08-13T16:26:14.898Z info: Finish parser
+2024-08-13T16:27:03.381Z info: Start parser
+2024-08-13T16:27:04.528Z info: Finish parser
+2024-08-13T16:28:03.167Z info: Start parser
+2024-08-13T16:28:04.396Z info: Finish parser
+2024-08-13T16:29:02.685Z info: Start parser
+2024-08-13T16:29:04.058Z info: Finish parser
+2024-08-13T16:30:03.374Z info: Start parser
+2024-08-13T16:30:04.484Z info: Finish parser
+2024-08-13T16:31:02.881Z info: Start parser
+2024-08-13T16:31:04.096Z info: Finish parser
+2024-08-13T16:32:03.865Z info: Start parser
+2024-08-13T16:32:04.084Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:32:09.090Z error: try again after waiting
+2024-08-13T16:32:10.103Z info: Finish parser
+2024-08-13T16:33:02.922Z info: Start parser
+2024-08-13T16:33:03.121Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:33:08.126Z error: try again after waiting
+2024-08-13T16:33:09.197Z info: Finish parser
+2024-08-13T16:34:02.447Z info: Start parser
+2024-08-13T16:34:03.817Z info: Finish parser
+2024-08-13T16:35:03.081Z info: Start parser
+2024-08-13T16:35:03.273Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:35:08.280Z error: try again after waiting
+2024-08-13T16:35:08.457Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:35:13.460Z error: try again after waiting
+2024-08-13T16:35:13.588Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:35:18.589Z error: try again after waiting
+2024-08-13T16:35:18.591Z info: Finish parser
+2024-08-13T16:36:02.917Z info: Start parser
+2024-08-13T16:36:04.192Z info: Finish parser
+2024-08-13T16:37:03.267Z info: Start parser
+2024-08-13T16:37:04.438Z info: Finish parser
+2024-08-13T16:38:02.755Z info: Start parser
+2024-08-13T16:38:02.938Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:38:07.944Z error: try again after waiting
+2024-08-13T16:38:09.059Z info: Finish parser
+2024-08-13T16:39:03.385Z info: Start parser
+2024-08-13T16:39:03.561Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:39:08.568Z error: try again after waiting
+2024-08-13T16:39:08.698Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:39:13.700Z error: try again after waiting
+2024-08-13T16:39:13.816Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:39:18.817Z error: try again after waiting
+2024-08-13T16:39:18.818Z info: Finish parser
+2024-08-13T16:40:03.062Z info: Start parser
+2024-08-13T16:40:03.228Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:40:08.235Z error: try again after waiting
+2024-08-13T16:40:08.350Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:40:13.353Z error: try again after waiting
+2024-08-13T16:40:13.465Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:40:18.466Z error: try again after waiting
+2024-08-13T16:40:18.466Z info: Finish parser
+2024-08-13T16:41:02.698Z info: Start parser
+2024-08-13T16:41:02.868Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:41:07.874Z error: try again after waiting
+2024-08-13T16:41:08.938Z info: Finish parser
+2024-08-13T16:42:03.876Z info: Start parser
+2024-08-13T16:42:05.543Z info: Finish parser
+2024-08-13T16:43:02.329Z info: Start parser
+2024-08-13T16:43:02.572Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:43:07.580Z error: try again after waiting
+2024-08-13T16:43:07.701Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:43:12.704Z error: try again after waiting
+2024-08-13T16:43:14.495Z info: Finish parser
+2024-08-13T16:44:03.121Z info: Start parser
+2024-08-13T16:44:03.312Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:44:08.318Z error: try again after waiting
+2024-08-13T16:44:08.656Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:44:13.658Z error: try again after waiting
+2024-08-13T16:44:14.997Z info: Finish parser
+2024-08-13T16:45:03.236Z info: Start parser
+2024-08-13T16:45:03.653Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:45:08.659Z error: try again after waiting
+2024-08-13T16:45:08.771Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:45:13.774Z error: try again after waiting
+2024-08-13T16:45:13.903Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:45:18.904Z error: try again after waiting
+2024-08-13T16:45:18.904Z info: Finish parser
+2024-08-13T16:46:03.010Z info: Start parser
+2024-08-13T16:46:04.103Z info: Finish parser
+2024-08-13T16:47:02.454Z info: Start parser
+2024-08-13T16:47:03.528Z info: Finish parser
+2024-08-13T16:48:02.777Z info: Start parser
+2024-08-13T16:48:02.952Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:48:07.958Z error: try again after waiting
+2024-08-13T16:48:09.003Z info: Finish parser
+2024-08-13T16:49:03.413Z info: Start parser
+2024-08-13T16:49:04.614Z info: Finish parser
+2024-08-13T16:50:02.954Z info: Start parser
+2024-08-13T16:50:04.630Z info: Finish parser
+2024-08-13T16:51:03.115Z info: Start parser
+2024-08-13T16:51:03.341Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:51:08.347Z error: try again after waiting
+2024-08-13T16:51:08.462Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:51:13.467Z error: try again after waiting
+2024-08-13T16:51:14.569Z info: Finish parser
+2024-08-13T16:52:02.871Z info: Start parser
+2024-08-13T16:52:03.046Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:52:08.053Z error: try again after waiting
+2024-08-13T16:52:08.171Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:52:13.173Z error: try again after waiting
+2024-08-13T16:52:13.298Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:52:18.299Z error: try again after waiting
+2024-08-13T16:52:18.299Z info: Finish parser
+2024-08-13T16:53:02.538Z info: Start parser
+2024-08-13T16:53:02.929Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:53:07.936Z error: try again after waiting
+2024-08-13T16:53:08.262Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:53:13.264Z error: try again after waiting
+2024-08-13T16:53:14.209Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:53:19.213Z error: try again after waiting
+2024-08-13T16:53:19.213Z info: Finish parser
+2024-08-13T16:54:03.255Z info: Start parser
+2024-08-13T16:54:03.440Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:54:08.446Z error: try again after waiting
+2024-08-13T16:54:08.568Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:54:13.571Z error: try again after waiting
+2024-08-13T16:54:13.693Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:54:18.694Z error: try again after waiting
+2024-08-13T16:54:18.697Z info: Finish parser
+2024-08-13T16:55:03.150Z info: Start parser
+2024-08-13T16:55:03.334Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:55:08.341Z error: try again after waiting
+2024-08-13T16:55:08.450Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:55:13.452Z error: try again after waiting
+2024-08-13T16:55:13.562Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:55:18.563Z error: try again after waiting
+2024-08-13T16:55:18.563Z info: Finish parser
+2024-08-13T16:56:02.807Z info: Start parser
+2024-08-13T16:56:02.979Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:56:07.983Z error: try again after waiting
+2024-08-13T16:56:08.148Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:56:13.151Z error: try again after waiting
+2024-08-13T16:56:13.261Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:56:18.262Z error: try again after waiting
+2024-08-13T16:56:18.263Z info: Finish parser
+2024-08-13T16:57:02.512Z info: Start parser
+2024-08-13T16:57:03.600Z info: Finish parser
+2024-08-13T16:58:03.123Z info: Start parser
+2024-08-13T16:58:03.322Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:58:08.329Z error: try again after waiting
+2024-08-13T16:58:09.453Z info: Finish parser
+2024-08-13T16:59:02.670Z info: Start parser
+2024-08-13T16:59:02.878Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:59:07.886Z error: try again after waiting
+2024-08-13T16:59:08.222Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:59:13.224Z error: try again after waiting
+2024-08-13T16:59:13.363Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T16:59:18.365Z error: try again after waiting
+2024-08-13T16:59:18.365Z info: Finish parser
+2024-08-13T17:00:03.211Z info: Start parser
+2024-08-13T17:00:03.420Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:00:08.426Z error: try again after waiting
+2024-08-13T17:00:08.560Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:00:13.562Z error: try again after waiting
+2024-08-13T17:00:13.683Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:00:18.684Z error: try again after waiting
+2024-08-13T17:00:18.684Z info: Finish parser
+2024-08-13T17:01:03.483Z info: Start parser
+2024-08-13T17:01:03.689Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:01:08.696Z error: try again after waiting
+2024-08-13T17:01:08.810Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:01:13.812Z error: try again after waiting
+2024-08-13T17:01:13.934Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:01:18.936Z error: try again after waiting
+2024-08-13T17:01:18.936Z info: Finish parser
+2024-08-13T17:02:03.108Z info: Start parser
+2024-08-13T17:02:04.631Z info: Finish parser
+2024-08-13T17:03:02.458Z info: Start parser
+2024-08-13T17:03:03.594Z info: Finish parser
+2024-08-13T17:04:03.124Z info: Start parser
+2024-08-13T17:04:04.385Z info: Finish parser
+2024-08-13T17:05:02.734Z info: Start parser
+2024-08-13T17:05:02.932Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:05:07.938Z error: try again after waiting
+2024-08-13T17:05:08.081Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:05:13.084Z error: try again after waiting
+2024-08-13T17:05:13.203Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:05:18.204Z error: try again after waiting
+2024-08-13T17:05:18.205Z info: Finish parser
+2024-08-13T17:06:02.441Z info: Start parser
+2024-08-13T17:06:02.631Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:06:07.637Z error: try again after waiting
+2024-08-13T17:06:08.724Z info: Finish parser
+2024-08-13T17:07:03.059Z info: Start parser
+2024-08-13T17:07:03.248Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:07:08.255Z error: try again after waiting
+2024-08-13T17:07:08.360Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:07:13.363Z error: try again after waiting
+2024-08-13T17:07:13.685Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:07:18.686Z error: try again after waiting
+2024-08-13T17:07:18.687Z info: Finish parser
+2024-08-13T17:08:02.772Z info: Start parser
+2024-08-13T17:08:02.961Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:08:07.968Z error: try again after waiting
+2024-08-13T17:08:09.535Z info: Finish parser
+2024-08-13T17:09:03.385Z info: Start parser
+2024-08-13T17:09:14.752Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:09:19.754Z error: try again after waiting
+2024-08-13T17:09:19.876Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:09:24.882Z error: try again after waiting
+2024-08-13T17:09:25.965Z info: Finish parser
+2024-08-13T17:10:03.742Z info: Start parser
+2024-08-13T17:10:03.960Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:10:08.967Z error: try again after waiting
+2024-08-13T17:10:09.311Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:10:14.313Z error: try again after waiting
+2024-08-13T17:10:14.441Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:10:19.443Z error: try again after waiting
+2024-08-13T17:10:19.444Z info: Finish parser
+2024-08-13T17:11:02.626Z info: Start parser
+2024-08-13T17:11:03.698Z info: Finish parser
+2024-08-13T17:12:03.142Z info: Start parser
+2024-08-13T17:12:03.312Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:12:08.319Z error: try again after waiting
+2024-08-13T17:12:09.337Z info: Finish parser
+2024-08-13T17:13:02.617Z info: Start parser
+2024-08-13T17:13:03.734Z info: Finish parser
+2024-08-13T17:14:02.993Z info: Start parser
+2024-08-13T17:14:04.093Z info: Finish parser
+2024-08-13T17:15:02.618Z info: Start parser
+2024-08-13T17:15:02.797Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:15:07.804Z error: try again after waiting
+2024-08-13T17:15:08.836Z info: Finish parser
+2024-08-13T17:16:03.079Z info: Start parser
+2024-08-13T17:16:04.152Z info: Finish parser
+2024-08-13T17:17:02.423Z info: Start parser
+2024-08-13T17:17:03.508Z info: Finish parser
+2024-08-13T17:18:02.769Z info: Start parser
+2024-08-13T17:18:03.855Z info: Finish parser
+2024-08-13T17:19:03.802Z info: Start parser
+2024-08-13T17:19:05.052Z info: Finish parser
+2024-08-13T17:20:03.580Z info: Start parser
+2024-08-13T17:20:05.143Z info: Finish parser
+2024-08-13T17:21:03.682Z info: Start parser
+2024-08-13T17:21:04.967Z info: Finish parser
+2024-08-13T17:22:03.365Z info: Start parser
+2024-08-13T17:22:04.520Z info: Finish parser
+2024-08-13T17:23:02.825Z info: Start parser
+2024-08-13T17:23:04.015Z info: Finish parser
+2024-08-13T17:24:03.133Z info: Start parser
+2024-08-13T17:24:04.241Z info: Finish parser
+2024-08-13T17:25:02.619Z info: Start parser
+2024-08-13T17:25:02.800Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:25:07.806Z error: try again after waiting
+2024-08-13T17:25:08.872Z info: Finish parser
+2024-08-13T17:26:03.481Z info: Start parser
+2024-08-13T17:26:04.704Z info: Finish parser
+2024-08-13T17:27:03.013Z info: Start parser
+2024-08-13T17:27:04.120Z info: Finish parser
+2024-08-13T17:28:02.775Z info: Start parser
+2024-08-13T17:28:04.245Z info: Finish parser
+2024-08-13T17:29:03.308Z info: Start parser
+2024-08-13T17:29:04.502Z info: Finish parser
+2024-08-13T17:30:03.064Z info: Start parser
+2024-08-13T17:30:04.255Z info: Finish parser
+2024-08-13T17:31:02.452Z info: Start parser
+2024-08-13T17:31:02.640Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:31:07.647Z error: try again after waiting
+2024-08-13T17:31:08.950Z info: Finish parser
+2024-08-13T17:32:02.989Z info: Start parser
+2024-08-13T17:32:04.167Z info: Finish parser
+2024-08-13T17:33:02.616Z info: Start parser
+2024-08-13T17:33:03.819Z info: Finish parser
+2024-08-13T17:34:03.704Z info: Start parser
+2024-08-13T17:34:04.879Z info: Finish parser
+2024-08-13T17:35:03.326Z info: Start parser
+2024-08-13T17:35:04.616Z info: Finish parser
+2024-08-13T17:36:03.053Z info: Start parser
+2024-08-13T17:36:03.263Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:36:08.270Z error: try again after waiting
+2024-08-13T17:36:09.439Z info: Finish parser
+2024-08-13T17:37:03.387Z info: Start parser
+2024-08-13T17:37:03.594Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:37:08.601Z error: try again after waiting
+2024-08-13T17:37:09.831Z info: Finish parser
+2024-08-13T17:38:03.050Z info: Start parser
+2024-08-13T17:38:04.155Z info: Finish parser
+2024-08-13T17:39:02.466Z info: Start parser
+2024-08-13T17:39:03.562Z info: Finish parser
+2024-08-13T17:40:02.851Z info: Start parser
+2024-08-13T17:40:03.033Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:40:08.039Z error: try again after waiting
+2024-08-13T17:40:08.149Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:40:13.151Z error: try again after waiting
+2024-08-13T17:40:14.539Z info: Finish parser
+2024-08-13T17:41:02.628Z info: Start parser
+2024-08-13T17:41:02.814Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:41:07.818Z error: try again after waiting
+2024-08-13T17:41:08.851Z info: Finish parser
+2024-08-13T17:42:03.192Z info: Start parser
+2024-08-13T17:42:04.566Z info: Finish parser
+2024-08-13T17:43:02.901Z info: Start parser
+2024-08-13T17:43:03.104Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:43:08.112Z error: try again after waiting
+2024-08-13T17:43:09.167Z info: Finish parser
+2024-08-13T17:44:02.518Z info: Start parser
+2024-08-13T17:44:03.639Z info: Finish parser
+2024-08-13T17:45:03.129Z info: Start parser
+2024-08-13T17:45:04.280Z info: Finish parser
+2024-08-13T17:46:02.547Z info: Start parser
+2024-08-13T17:46:03.913Z info: Finish parser
+2024-08-13T17:47:03.574Z info: Start parser
+2024-08-13T17:47:05.294Z info: Finish parser
+2024-08-13T17:48:02.974Z info: Start parser
+2024-08-13T17:48:04.053Z info: Finish parser
+2024-08-13T17:49:02.426Z info: Start parser
+2024-08-13T17:49:03.564Z info: Finish parser
+2024-08-13T17:50:02.885Z info: Start parser
+2024-08-13T17:50:03.982Z info: Finish parser
+2024-08-13T17:51:03.314Z info: Start parser
+2024-08-13T17:51:04.396Z info: Finish parser
+2024-08-13T17:52:02.898Z info: Start parser
+2024-08-13T17:52:04.075Z info: Finish parser
+2024-08-13T17:53:02.325Z info: Start parser
+2024-08-13T17:53:03.447Z info: Finish parser
+2024-08-13T17:54:02.681Z info: Start parser
+2024-08-13T17:54:03.728Z info: Finish parser
+2024-08-13T17:55:03.073Z info: Start parser
+2024-08-13T17:55:04.196Z info: Finish parser
+2024-08-13T17:56:03.199Z info: Start parser
+2024-08-13T17:56:04.787Z info: Finish parser
+2024-08-13T17:57:02.705Z info: Start parser
+2024-08-13T17:57:04.381Z info: Finish parser
+2024-08-13T17:58:03.196Z info: Start parser
+2024-08-13T17:58:03.389Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:58:08.396Z error: try again after waiting
+2024-08-13T17:58:09.710Z info: Finish parser
+2024-08-13T17:59:02.804Z info: Start parser
+2024-08-13T17:59:02.974Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T17:59:07.978Z error: try again after waiting
+2024-08-13T17:59:09.003Z info: Finish parser
+2024-08-13T18:00:03.647Z info: Start parser
+2024-08-13T18:00:05.048Z info: Finish parser
+2024-08-13T18:01:03.304Z info: Start parser
+2024-08-13T18:01:04.619Z info: Finish parser
+2024-08-13T18:02:02.835Z info: Start parser
+2024-08-13T18:02:03.920Z info: Finish parser
+2024-08-13T18:03:03.139Z info: Start parser
+2024-08-13T18:03:04.284Z info: Finish parser
+2024-08-13T18:04:02.700Z info: Start parser
+2024-08-13T18:04:03.849Z info: Finish parser
+2024-08-13T18:05:03.139Z info: Start parser
+2024-08-13T18:05:04.263Z info: Finish parser
+2024-08-13T18:06:03.036Z info: Start parser
+2024-08-13T18:06:04.604Z info: Finish parser
+2024-08-13T18:07:02.460Z info: Start parser
+2024-08-13T18:07:03.876Z info: Finish parser
+2024-08-13T18:08:02.868Z info: Start parser
+2024-08-13T18:08:04.096Z info: Finish parser
+2024-08-13T18:09:03.343Z info: Start parser
+2024-08-13T18:09:05.580Z info: Finish parser
+2024-08-13T18:10:03.431Z info: Start parser
+2024-08-13T18:10:04.623Z info: Finish parser
+2024-08-13T18:11:02.802Z info: Start parser
+2024-08-13T18:11:03.928Z info: Finish parser
+2024-08-13T18:12:03.235Z info: Start parser
+2024-08-13T18:12:04.536Z info: Finish parser
+2024-08-13T18:13:02.580Z info: Start parser
+2024-08-13T18:13:03.715Z info: Finish parser
+2024-08-13T18:14:02.979Z info: Start parser
+2024-08-13T18:14:04.094Z info: Finish parser
+2024-08-13T18:15:03.499Z info: Start parser
+2024-08-13T18:15:05.058Z info: Finish parser
+2024-08-13T18:16:02.954Z info: Start parser
+2024-08-13T18:16:03.996Z info: Finish parser
+2024-08-13T18:17:02.414Z info: Start parser
+2024-08-13T18:17:08.540Z info: Finish parser
+2024-08-13T18:18:03.165Z info: Start parser
+2024-08-13T18:18:04.276Z info: Finish parser
+2024-08-13T18:19:02.644Z info: Start parser
+2024-08-13T18:19:04.035Z info: Finish parser
+2024-08-13T18:20:03.529Z info: Start parser
+2024-08-13T18:20:03.747Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T18:20:08.754Z error: try again after waiting
+2024-08-13T18:20:09.887Z info: Finish parser
+2024-08-13T18:21:03.266Z info: Start parser
+2024-08-13T18:21:04.520Z info: Finish parser
+2024-08-13T18:22:02.730Z info: Start parser
+2024-08-13T18:22:04.050Z info: Finish parser
+2024-08-13T18:23:03.584Z info: Start parser
+2024-08-13T18:23:04.725Z info: Finish parser
+2024-08-13T18:24:03.814Z info: Start parser
+2024-08-13T18:24:05.141Z info: Finish parser
+2024-08-13T18:25:03.417Z info: Start parser
+2024-08-13T18:25:04.687Z info: Finish parser
+2024-08-13T18:26:02.760Z info: Start parser
+2024-08-13T18:26:02.952Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T18:26:07.954Z error: try again after waiting
+2024-08-13T18:26:09.067Z info: Finish parser
+2024-08-13T18:27:03.237Z info: Start parser
+2024-08-13T18:27:03.438Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T18:27:08.445Z error: try again after waiting
+2024-08-13T18:27:09.571Z info: Finish parser
+2024-08-13T18:28:02.822Z info: Start parser
+2024-08-13T18:28:03.960Z info: Finish parser
+2024-08-13T18:29:03.154Z info: Start parser
+2024-08-13T18:29:04.223Z info: Finish parser
+2024-08-13T18:30:02.708Z info: Start parser
+2024-08-13T18:30:03.834Z info: Finish parser
+2024-08-13T18:31:03.199Z info: Start parser
+2024-08-13T18:31:04.315Z info: Finish parser
+2024-08-13T18:32:02.536Z info: Start parser
+2024-08-13T18:32:03.657Z info: Finish parser
+2024-08-13T18:33:03.475Z info: Start parser
+2024-08-13T18:33:03.700Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T18:33:08.706Z error: try again after waiting
+2024-08-13T18:33:09.718Z info: Finish parser
+2024-08-13T18:34:03.096Z info: Start parser
+2024-08-13T18:34:03.285Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T18:34:08.292Z error: try again after waiting
+2024-08-13T18:34:09.943Z info: Finish parser
+2024-08-13T18:35:02.756Z info: Start parser
+2024-08-13T18:35:04.006Z info: Finish parser
+2024-08-13T18:36:03.157Z info: Start parser
+2024-08-13T18:36:03.336Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T18:36:08.342Z error: try again after waiting
+2024-08-13T18:36:09.417Z info: Finish parser
+2024-08-13T18:37:02.916Z info: Start parser
+2024-08-13T18:37:03.111Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T18:37:08.117Z error: try again after waiting
+2024-08-13T18:37:09.216Z info: Finish parser
+2024-08-13T18:38:02.595Z info: Start parser
+2024-08-13T18:38:03.701Z info: Finish parser
+2024-08-13T18:39:02.964Z info: Start parser
+2024-08-13T18:39:04.069Z info: Finish parser
+2024-08-13T18:40:02.633Z info: Start parser
+2024-08-13T18:40:03.978Z info: Finish parser
+2024-08-13T18:41:03.047Z info: Start parser
+2024-08-13T18:41:04.137Z info: Finish parser
+2024-08-13T18:42:02.700Z info: Start parser
+2024-08-13T18:42:03.928Z info: Finish parser
+2024-08-13T18:43:04.168Z info: Start parser
+2024-08-13T18:43:05.637Z info: Finish parser
+2024-08-13T18:44:02.849Z info: Start parser
+2024-08-13T18:44:03.027Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T18:44:08.033Z error: try again after waiting
+2024-08-13T18:44:09.276Z info: Finish parser
+2024-08-13T18:45:02.687Z info: Start parser
+2024-08-13T18:45:04.147Z info: Finish parser
+2024-08-13T18:46:03.130Z info: Start parser
+2024-08-13T18:46:13.462Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T18:46:18.464Z error: try again after waiting
+2024-08-13T18:46:19.638Z info: Finish parser
+2024-08-13T18:47:02.785Z info: Start parser
+2024-08-13T18:47:04.095Z info: Finish parser
+2024-08-13T18:48:03.350Z info: Start parser
+2024-08-13T18:48:04.459Z info: Finish parser
+2024-08-13T18:49:02.979Z info: Start parser
+2024-08-13T18:49:04.117Z info: Finish parser
+2024-08-13T18:50:02.631Z info: Start parser
+2024-08-13T18:50:03.779Z info: Finish parser
+2024-08-13T18:51:02.954Z info: Start parser
+2024-08-13T18:51:04.011Z info: Finish parser
+2024-08-13T18:52:02.794Z info: Start parser
+2024-08-13T18:52:04.507Z info: Finish parser
+2024-08-13T18:53:03.159Z info: Start parser
+2024-08-13T18:53:04.234Z info: Finish parser
+2024-08-13T18:54:02.518Z info: Start parser
+2024-08-13T18:54:03.602Z info: Finish parser
+2024-08-13T18:55:03.049Z info: Start parser
+2024-08-13T18:55:04.278Z info: Finish parser
+2024-08-13T18:56:02.486Z info: Start parser
+2024-08-13T18:56:03.626Z info: Finish parser
+2024-08-13T18:57:02.919Z info: Start parser
+2024-08-13T18:57:04.058Z info: Finish parser
+2024-08-13T18:58:03.274Z info: Start parser
+2024-08-13T18:58:03.448Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T18:58:08.454Z error: try again after waiting
+2024-08-13T18:58:09.643Z info: Finish parser
+2024-08-13T18:59:02.740Z info: Start parser
+2024-08-13T18:59:03.904Z info: Finish parser
+2024-08-13T19:00:03.894Z info: Start parser
+2024-08-13T19:00:05.071Z info: Finish parser
+2024-08-13T19:01:02.672Z info: Start parser
+2024-08-13T19:01:02.844Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T19:01:07.851Z error: try again after waiting
+2024-08-13T19:01:09.069Z info: Finish parser
+2024-08-13T19:02:03.754Z info: Start parser
+2024-08-13T19:02:07.733Z info: Finish parser
+2024-08-13T19:03:03.239Z info: Start parser
+2024-08-13T19:03:04.372Z info: Finish parser
+2024-08-13T19:04:02.632Z info: Start parser
+2024-08-13T19:04:03.748Z info: Finish parser
+2024-08-13T19:05:03.113Z info: Start parser
+2024-08-13T19:05:04.362Z info: Finish parser
+2024-08-13T19:06:02.622Z info: Start parser
+2024-08-13T19:06:03.981Z info: Finish parser
+2024-08-13T19:07:03.004Z info: Start parser
+2024-08-13T19:07:04.200Z info: Finish parser
+2024-08-13T19:08:02.401Z info: Start parser
+2024-08-13T19:08:03.568Z info: Finish parser
+2024-08-13T19:09:02.977Z info: Start parser
+2024-08-13T19:09:04.040Z info: Finish parser
+2024-08-13T19:10:02.682Z info: Start parser
+2024-08-13T19:10:02.889Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T19:10:07.895Z error: try again after waiting
+2024-08-13T19:10:08.923Z info: Finish parser
+2024-08-13T19:11:03.689Z info: Start parser
+2024-08-13T19:11:05.168Z info: Finish parser
+2024-08-13T19:12:03.300Z info: Start parser
+2024-08-13T19:12:04.661Z info: Finish parser
+2024-08-13T19:13:02.922Z info: Start parser
+2024-08-13T19:13:04.066Z info: Finish parser
+2024-08-13T19:14:02.770Z info: Start parser
+2024-08-13T19:14:04.094Z info: Finish parser
+2024-08-13T19:15:03.351Z info: Start parser
+2024-08-13T19:15:04.582Z info: Finish parser
+2024-08-13T19:16:02.759Z info: Start parser
+2024-08-13T19:16:03.883Z info: Finish parser
+2024-08-13T19:17:03.161Z info: Start parser
+2024-08-13T19:17:04.268Z info: Finish parser
+2024-08-13T19:18:02.668Z info: Start parser
+2024-08-13T19:18:04.014Z info: Finish parser
+2024-08-13T19:19:03.231Z info: Start parser
+2024-08-13T19:19:04.393Z info: Finish parser
+2024-08-13T19:20:03.690Z info: Start parser
+2024-08-13T19:20:05.193Z info: Finish parser
+2024-08-13T19:21:03.060Z info: Start parser
+2024-08-13T19:21:04.119Z info: Finish parser
+2024-08-13T19:22:02.500Z info: Start parser
+2024-08-13T19:22:03.584Z info: Finish parser
+2024-08-13T19:23:02.858Z info: Start parser
+2024-08-13T19:23:04.066Z info: Finish parser
+2024-08-13T19:24:03.155Z info: Start parser
+2024-08-13T19:24:04.277Z info: Finish parser
+2024-08-13T19:25:02.660Z info: Start parser
+2024-08-13T19:25:03.864Z info: Finish parser
+2024-08-13T19:26:03.001Z info: Start parser
+2024-08-13T19:26:04.107Z info: Finish parser
+2024-08-13T19:27:02.341Z info: Start parser
+2024-08-13T19:27:03.406Z info: Finish parser
+2024-08-13T19:28:02.818Z info: Start parser
+2024-08-13T19:28:04.100Z info: Finish parser
+2024-08-13T19:29:04.232Z info: Start parser
+2024-08-13T19:29:05.335Z info: Finish parser
+2024-08-13T19:30:03.006Z info: Start parser
+2024-08-13T19:30:04.269Z info: Finish parser
+2024-08-13T19:31:02.532Z info: Start parser
+2024-08-13T19:31:03.608Z info: Finish parser
+2024-08-13T19:32:03.125Z info: Start parser
+2024-08-13T19:32:03.521Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T19:32:08.526Z error: try again after waiting
+2024-08-13T19:32:09.705Z info: Finish parser
+2024-08-13T19:33:02.990Z info: Start parser
+2024-08-13T19:33:04.592Z info: Finish parser
+2024-08-13T19:34:02.467Z info: Start parser
+2024-08-13T19:34:03.655Z info: Finish parser
+2024-08-13T19:35:03.081Z info: Start parser
+2024-08-13T19:35:04.449Z info: Finish parser
+2024-08-13T19:36:02.389Z info: Start parser
+2024-08-13T19:36:03.488Z info: Finish parser
+2024-08-13T19:37:02.882Z info: Start parser
+2024-08-13T19:37:03.993Z info: Finish parser
+2024-08-13T19:38:03.184Z info: Start parser
+2024-08-13T19:38:04.359Z info: Finish parser
+2024-08-13T19:39:03.348Z info: Start parser
+2024-08-13T19:39:05.040Z info: Finish parser
+2024-08-13T19:40:02.893Z info: Start parser
+2024-08-13T19:40:04.165Z info: Finish parser
+2024-08-13T19:41:03.234Z info: Start parser
+2024-08-13T19:41:13.570Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T19:41:18.572Z error: try again after waiting
+2024-08-13T19:41:20.071Z info: Finish parser
+2024-08-13T19:42:03.460Z info: Start parser
+2024-08-13T19:42:04.571Z info: Finish parser
+2024-08-13T19:43:03.085Z info: Start parser
+2024-08-13T19:43:04.301Z info: Finish parser
+2024-08-13T19:44:02.656Z info: Start parser
+2024-08-13T19:44:03.727Z info: Finish parser
+2024-08-13T19:45:03.194Z info: Start parser
+2024-08-13T19:45:04.293Z info: Finish parser
+2024-08-13T19:46:02.816Z info: Start parser
+2024-08-13T19:46:03.242Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T19:46:08.249Z error: try again after waiting
+2024-08-13T19:46:09.299Z info: Finish parser
+2024-08-13T19:47:02.678Z info: Start parser
+2024-08-13T19:47:03.774Z info: Finish parser
+2024-08-13T19:48:03.792Z info: Start parser
+2024-08-13T19:48:05.238Z info: Finish parser
+2024-08-13T19:49:03.191Z info: Start parser
+2024-08-13T19:49:04.320Z info: Finish parser
+2024-08-13T19:50:02.996Z info: Start parser
+2024-08-13T19:50:04.119Z info: Finish parser
+2024-08-13T19:51:02.646Z info: Start parser
+2024-08-13T19:51:03.804Z info: Finish parser
+2024-08-13T19:52:03.090Z info: Start parser
+2024-08-13T19:52:04.584Z info: Finish parser
+2024-08-13T19:53:02.881Z info: Start parser
+2024-08-13T19:53:04.041Z info: Finish parser
+2024-08-13T19:54:03.260Z info: Start parser
+2024-08-13T19:54:04.142Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T19:54:09.149Z error: try again after waiting
+2024-08-13T19:54:10.186Z info: Finish parser
+2024-08-13T19:55:02.567Z info: Start parser
+2024-08-13T19:55:03.790Z info: Finish parser
+2024-08-13T19:56:02.913Z info: Start parser
+2024-08-13T19:56:04.035Z info: Finish parser
+2024-08-13T19:57:03.992Z info: Start parser
+2024-08-13T19:57:05.398Z info: Finish parser
+2024-08-13T19:58:02.360Z info: Start parser
+2024-08-13T19:58:02.546Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T19:58:07.554Z error: try again after waiting
+2024-08-13T19:58:08.917Z info: Finish parser
+2024-08-13T19:59:02.953Z info: Start parser
+2024-08-13T19:59:04.134Z info: Finish parser
+2024-08-13T20:00:02.937Z info: Start parser
+2024-08-13T20:00:04.192Z info: Finish parser
+2024-08-13T20:01:02.366Z info: Start parser
+2024-08-13T20:01:03.580Z info: Finish parser
+2024-08-13T20:02:02.716Z info: Start parser
+2024-08-13T20:02:03.836Z info: Finish parser
+2024-08-13T20:03:03.061Z info: Start parser
+2024-08-13T20:03:04.157Z info: Finish parser
+2024-08-13T20:04:02.506Z info: Start parser
+2024-08-13T20:04:03.688Z info: Finish parser
+2024-08-13T20:05:02.967Z info: Start parser
+2024-08-13T20:05:04.205Z info: Finish parser
+2024-08-13T20:06:03.001Z info: Start parser
+2024-08-13T20:06:04.473Z info: Finish parser
+2024-08-13T20:07:02.608Z info: Start parser
+2024-08-13T20:07:02.790Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T20:07:07.797Z error: try again after waiting
+2024-08-13T20:07:09.313Z info: Finish parser
+2024-08-13T20:08:03.116Z info: Start parser
+2024-08-13T20:08:04.319Z info: Finish parser
+2024-08-13T20:09:02.549Z info: Start parser
+2024-08-13T20:09:03.743Z info: Finish parser
+2024-08-13T20:10:03.516Z info: Start parser
+2024-08-13T20:10:04.639Z info: Finish parser
+2024-08-13T20:11:02.989Z info: Start parser
+2024-08-13T20:11:04.220Z info: Finish parser
+2024-08-13T20:12:02.394Z info: Start parser
+2024-08-13T20:12:03.703Z info: Finish parser
+2024-08-13T20:13:02.732Z info: Start parser
+2024-08-13T20:13:03.810Z info: Finish parser
+2024-08-13T20:14:03.450Z info: Start parser
+2024-08-13T20:14:04.699Z info: Finish parser
+2024-08-13T20:15:03.248Z info: Start parser
+2024-08-13T20:15:04.422Z info: Finish parser
+2024-08-13T20:16:02.834Z info: Start parser
+2024-08-13T20:16:03.071Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T20:16:08.078Z error: try again after waiting
+2024-08-13T20:16:09.504Z info: Finish parser
+2024-08-13T20:17:02.406Z info: Start parser
+2024-08-13T20:17:03.513Z info: Finish parser
+2024-08-13T20:18:03.131Z info: Start parser
+2024-08-13T20:18:04.252Z info: Finish parser
+2024-08-13T20:19:02.660Z info: Start parser
+2024-08-13T20:19:03.755Z info: Finish parser
+2024-08-13T20:20:03.134Z info: Start parser
+2024-08-13T20:20:04.373Z info: Finish parser
+2024-08-13T20:21:02.718Z info: Start parser
+2024-08-13T20:21:03.839Z info: Finish parser
+2024-08-13T20:22:03.081Z info: Start parser
+2024-08-13T20:22:04.170Z info: Finish parser
+2024-08-13T20:23:02.429Z info: Start parser
+2024-08-13T20:23:03.551Z info: Finish parser
+2024-08-13T20:24:02.844Z info: Start parser
+2024-08-13T20:24:04.149Z info: Finish parser
+2024-08-13T20:25:03.876Z info: Start parser
+2024-08-13T20:25:05.427Z info: Finish parser
+2024-08-13T20:26:03.419Z info: Start parser
+2024-08-13T20:26:04.653Z info: Finish parser
+2024-08-13T20:27:02.922Z info: Start parser
+2024-08-13T20:27:13.268Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T20:27:18.270Z error: try again after waiting
+2024-08-13T20:27:19.665Z info: Finish parser
+2024-08-13T20:28:02.591Z info: Start parser
+2024-08-13T20:28:02.782Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T20:28:07.788Z error: try again after waiting
+2024-08-13T20:28:08.827Z info: Finish parser
+2024-08-13T20:29:03.192Z info: Start parser
+2024-08-13T20:29:04.416Z info: Finish parser
+2024-08-13T20:30:02.837Z info: Start parser
+2024-08-13T20:30:04.227Z info: Finish parser
+2024-08-13T20:31:03.123Z info: Start parser
+2024-08-13T20:31:04.229Z info: Finish parser
+2024-08-13T20:32:02.486Z info: Start parser
+2024-08-13T20:32:02.672Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T20:32:07.678Z error: try again after waiting
+2024-08-13T20:32:07.791Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T20:32:12.794Z error: try again after waiting
+2024-08-13T20:32:13.829Z info: Finish parser
+2024-08-13T20:33:03.123Z info: Start parser
+2024-08-13T20:33:03.328Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T20:33:08.334Z error: try again after waiting
+2024-08-13T20:33:09.386Z info: Finish parser
+2024-08-13T20:34:03.087Z info: Start parser
+2024-08-13T20:34:04.472Z info: Finish parser
+2024-08-13T20:35:02.467Z info: Start parser
+2024-08-13T20:35:03.555Z info: Finish parser
+2024-08-13T20:36:02.775Z info: Start parser
+2024-08-13T20:36:03.857Z info: Finish parser
+2024-08-13T20:37:03.150Z info: Start parser
+2024-08-13T20:37:04.224Z info: Finish parser
+2024-08-13T20:38:02.566Z info: Start parser
+2024-08-13T20:38:03.634Z info: Finish parser
+2024-08-13T20:39:02.952Z info: Start parser
+2024-08-13T20:39:04.041Z info: Finish parser
+2024-08-13T20:40:02.351Z info: Start parser
+2024-08-13T20:40:03.959Z info: Finish parser
+2024-08-13T20:41:02.816Z info: Start parser
+2024-08-13T20:41:04.052Z info: Finish parser
+2024-08-13T20:42:03.113Z info: Start parser
+2024-08-13T20:42:04.204Z info: Finish parser
+2024-08-13T20:43:02.638Z info: Start parser
+2024-08-13T20:43:03.765Z info: Finish parser
+2024-08-13T20:44:03.518Z info: Start parser
+2024-08-13T20:44:05.034Z info: Finish parser
+2024-08-13T20:45:02.939Z info: Start parser
+2024-08-13T20:45:04.029Z info: Finish parser
+2024-08-13T20:46:02.279Z info: Start parser
+2024-08-13T20:46:03.420Z info: Finish parser
+2024-08-13T20:47:02.741Z info: Start parser
+2024-08-13T20:47:03.872Z info: Finish parser
+2024-08-13T20:48:03.099Z info: Start parser
+2024-08-13T20:48:04.292Z info: Finish parser
+2024-08-13T20:49:02.533Z info: Start parser
+2024-08-13T20:49:03.733Z info: Finish parser
+2024-08-13T20:50:03.001Z info: Start parser
+2024-08-13T20:50:04.146Z info: Finish parser
+2024-08-13T20:51:02.397Z info: Start parser
+2024-08-13T20:51:03.758Z info: Finish parser
+2024-08-13T20:52:02.790Z info: Start parser
+2024-08-13T20:52:03.851Z info: Finish parser
+2024-08-13T20:53:03.590Z info: Start parser
+2024-08-13T20:53:04.790Z info: Finish parser
+2024-08-13T20:54:02.953Z info: Start parser
+2024-08-13T20:54:03.128Z error: Could not load news: request to https://www.mid.ru/ru/foreign_policy/news/ failed, reason: read ECONNRESET
+2024-08-13T20:54:08.135Z error: try again after waiting
+2024-08-13T20:54:09.494Z info: Finish parser
+2024-08-13T20:55:02.635Z info: Start parser
+2024-08-13T20:55:03.974Z info: Finish parser
+2024-08-13T20:56:03.018Z info: Start parser
+2024-08-13T20:56:04.283Z info: Finish parser
+2024-08-13T20:57:02.572Z info: Start parser
+2024-08-13T20:57:03.967Z info: Finish parser
+2024-08-13T20:58:02.912Z info: Start parser
+2024-08-13T20:58:04.092Z info: Finish parser
+2024-08-13T20:59:03.303Z info: Start parser
+2024-08-13T20:59:04.459Z info: Finish parser
