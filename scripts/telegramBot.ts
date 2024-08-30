@@ -36,6 +36,12 @@ async function getLatestNews(): Promise<NewsItem[]> {
 }
 
 async function sendNewsItem(item: NewsItem): Promise<void> {
+  if (!BOT_TOKEN || !CHANNEL_ID) {
+    logger.error('BOT_TOKEN or CHANNEL_ID is not set in .env file')
+    return
+  }
+
+  const bot = new TelegramBot(BOT_TOKEN)
   const message = `${item.date} ${item.time}: ${item.title}\n${item.link}`
   try {
     await retryOperation(
@@ -52,6 +58,7 @@ async function sendNewsItem(item: NewsItem): Promise<void> {
 export async function checkAndSendNews() {
   logger.info('Starting news check')
 
+  const storedNews = loadStoredNews()
   const latestNews = await getLatestNews()
   const newItems = latestNews.filter(
     (item) => !storedNews.some((stored) => stored.link === item.link),
@@ -63,11 +70,11 @@ export async function checkAndSendNews() {
       storedNews.push(item)
     }
 
-    storedNews = removeOldNews(storedNews)
+    const updatedStoredNews = removeOldNews(storedNews)
 
-    saveStoredNews(storedNews)
+    saveStoredNews(updatedStoredNews)
     logger.info(`Sent ${newItems.length} new item(s)`)
-    logger.info(`Total stored news items: ${storedNews.length}`)
+    logger.info(`Total stored news items: ${updatedStoredNews.length}`)
   } else {
     logger.info('No new items to send.')
   }
