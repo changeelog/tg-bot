@@ -1,3 +1,4 @@
 #!/bin/bash
-cd /root/Mid
-node dist/index.js > 1.task
+cd /root/scripts
+source .env
+node dist/main.js > 1.task
