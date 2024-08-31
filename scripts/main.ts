@@ -1,10 +1,5 @@
-import dotenv from 'dotenv'
-import { initializeBot, checkAndSendNews } from './telegramBot'
+import { initializeBot, checkAndSendNews, cleanupOldNews } from './telegramBot'
 import { logger } from './logger'
-import path from 'path'
-import { cleanupOldFiles } from './storage'
-
-dotenv.config({ path: path.resolve(__dirname, '.env') })
 
 async function main() {
   try {
@@ -13,7 +8,7 @@ async function main() {
     initializeBot()
 
     await checkAndSendNews()
-    await cleanupOldFiles()
+    await cleanupOldNews()
 
     logger.info('News check completed')
   } catch (error) {
